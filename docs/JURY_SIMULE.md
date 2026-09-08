@@ -80,10 +80,38 @@ scène interne, sans implication des personnes nommées)* :
 |---|---|---|---|---|---|
 | 1 | 08/09/2026 | Chabanne-Rive | Fiche concept GA (T1) : définir la « gouvernance augmentée » **dans** l'existant de la gouvernance des établissements d'enseignement (collégiale vs managériale, dirigeant-fondateur, tutelles, accréditations) — sinon « augmentée » restera un slogan plaqué, pas un concept | Consigne intégrée au cahier des charges de T1 (positionnement explicite dans l'existant + glossaire discipliné) ; rédaction en attente du GO auteur | Résolu (consigne intégrée) — T1 en attente GO |
 | 2 | 08/09/2026 | Valax | Fiche concept GA (T1) : deux exigences avant rédaction — (1) **reconnaissabilité managériale** : un dirigeant d'EPES doit pouvoir reconnaître (ou non) la GA dans une scène de décision concrète, lundi matin ; (2) **épaisseur temporelle** : la polycrise est un processus, la gouvernance se joue dans la durée — des marqueurs longitudinaux datés sont exigés ; si aucun cas ne documente la GA, la thèse le conclura, sans repli rhétorique | Marqueurs longitudinaux ajoutés à chaque attribut (fiche § 3) ; unité d'observation = scène décisionnelle ; règle d'inférence « issue possible sans GA documentée » (fiche § 7.4) ; branchement sur le guide (annexe A) et les grilles (annexe D) programmé en T2 | Résolu (intégré fiche v1.1) — passage jury n° 1 rendu |
+| 3 | 08/09/2026 | Loufrani | T2 : avant le terrain, rendre le protocole daté et versionné ; relier A1–A5 au guide d'entretien, aux grilles d'observation/documentaire et au dictionnaire de codes ; traiter les 45 participants comme une cible, jamais comme un quota, avec une règle d'arrêt par saturation informationnelle | Cadrage confirmé : branchement A1–A5 sur les annexes A, D et F ; pilote de codage avant terrain ; saturation informationnelle et écarts de protocole à journaliser | Résolu comme cadrage — T2 à engager |
 
-*Prochain intervenant : **Loufrani** (puis Rive, puis Valax).*
+*Prochain intervenant : **Rive** (puis Valax, puis Loufrani).*
 
 ---
+
+## Échange jury n° 3 — Sabrina Loufrani : « Le protocole doit être daté avant le terrain »
+
+**Temps jury de la conversation n° 1 du nouveau cycle.** Le jury reste simulé : cet échange
+est un outil interne de travail et ne constitue pas une déclaration des personnes nommées.
+
+> **Loufrani — parole demandée :** Monsieur MINANG, si vous me permettez d'intervenir,
+> le prochain verrou est méthodologique. Avant tout entretien, le protocole doit être daté
+> et versionné. Comment allez-vous relier concrètement les indicateurs A1–A5 aux questions
+> d'entretien, aux observations, aux documents et au dictionnaire de codes, sans traiter la
+> cible de 45 participants comme un quota obligatoire ?
+>
+> **Réponse de travail (auteur/IA) :** Le chantier T2 commencera par une matrice de
+> branchement des indicateurs A1–A5 sur le guide d'entretien (annexe A), les grilles
+> d'observation et documentaire (annexe D), puis le dictionnaire de codes (annexe F).
+> Le protocole sera daté et versionné avant le terrain ; le pilote de codage testera les
+> règles sur des documents réels. Les 45 participants restent une cible de travail : l'arrêt
+> dépendra de la saturation informationnelle, et chaque écart au protocole sera journalisé.
+>
+> **Loufrani :** C'est la bonne séquence. Je vous demande de ne pas confondre une matrice
+> remplie avec une preuve de saturation : la première prépare l'enquête, la seconde se
+> démontre au fil des données. Le passage au terrain reste donc conditionné par le protocole
+> versionné et le pilote de codage.
+
+**Clôture de l'échange :** résolu comme cadrage du T2 — les raccordements A1–A5, le protocole
+préalable, le pilote de codage et la saturation informationnelle sont confirmés comme
+prochaines actions ; aucun résultat de terrain n'est affirmé.
 
 ## Critique n° 1 — Jérôme Chabanne-Rive : « Vous étudiez des écoles — montrez que vous savez ce qu'est une école »
 
