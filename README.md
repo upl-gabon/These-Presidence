@@ -62,4 +62,5 @@ Aucun `npm install` nécessaire (aucune dépendance).
 
 Tout livrable passe le **jury simulé** (`docs/JURY_SIMULE.md`) :
 un seul ❌ = reprise exigée. Puis validation finale de l'auteur (Serge Patrick MINANG).
-Dépôt recommandé **privé** ; jamais de push direct sur `main` (branche → PR → merge).
+Dépôt **privé exigé** (discrétion, documents internes — voir `REPRISE.md` § 1) ;
+jamais de push direct sur `main` (branche → PR → merge).

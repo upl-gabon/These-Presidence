@@ -69,6 +69,11 @@
 
 ## 5. Journal (bref — derniers en haut)
 
+- **08/09/2026 (mise en propre GitHub)** : contenu du zip commité sur `main` via
+  PR n° 1 (branche → PR → merge, D6) ; `these-SPM.zip` et `CREER-LE-REPO.md`
+  supprimés ; README/REPRISE actualisés. Reste à l'auteur : passer le dépôt en
+  privé (Settings — le jeton IA n'a pas les droits admin). 9/9 verts.
+  T1 (fiche concept GA) inchangé.
 - **08/09/2026** : création du dépôt par extraction (`these/` → racine, liens absolus,
   jury + reprise + tests adaptés). 9/9 verts. En attente GO passage n° 1 (fiche concept GA).
 - **Antériorité (dépôt UPL-Gabon)** : zone `these/` créée depuis le Drive « Thèse president
