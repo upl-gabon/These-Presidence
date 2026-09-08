@@ -2,7 +2,9 @@
 
 **Recherche doctorale : gouvernance augmentée des EPES gabonais**,
 articulation IA × intelligence émotionnelle en situation de polycrise.
-Travail en cours (septembre 2026).
+Travail en cours (septembre 2026). **Le terrain n'est pas encore réalisé : le travail actuel
+porte sur la conception de la méthodologie et de ses outils ; aucun résultat empirique n'est
+présenté comme acquis.**
 
 > Dépôt autonome extrait de `upl-gabon/UPL-Gabon` le 08/09/2026, hébergé sur
 > `github.com/upl-gabon/These-Presidence` (**privé exigé** — documents de travail internes).

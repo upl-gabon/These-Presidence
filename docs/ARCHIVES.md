@@ -116,6 +116,37 @@ retenus que s'ils compromettent la validité, la traçabilité ou l'interprétat
 Le prochain intervenant est **Marc Valax**.
 
 
+**Addendum 2 — état empirique clarifié par l'auteur.** L'auteur précise que le terrain n'a
+pas encore été réalisé : il a conçu la méthodologie et ses outils. Le dépôt ne contient donc
+pas d'entretiens, d'observations, de données de terrain ni de résultats empiriques acquis.
+Cette distinction est désormais verrouillée dans `REPRISE.md` (D12) et dans le périmètre du
+jury : dispositif prévu, données à recueillir et résultats à établir ne doivent pas être
+confondus.
+
+**Échange jury n° 5 — Marc Valax (temps jury, dialogue complet).**
+
+> **Valax :** Monsieur MINANG, c'est une distinction décisive. Vous n'avez pas encore fait
+> le terrain : vous avez conçu la méthodologie. Je ne peux donc pas évaluer des résultats,
+> des effets ou des configurations observées. Je peux évaluer la promesse de savoir
+> actionnable du dispositif prévu, ses conditions de test et la séparation entre ce qui est
+> conçu, ce qui sera observé et ce qui restera peut-être absent.
+>
+> **Réponse de travail (auteur/IA) :** C'est acté. À ce stade, la fiche GA, le protocole à
+> construire et les outils associés sont des propositions de conception méthodologique. Aucun
+> entretien, aucune observation, aucun document de terrain et aucun résultat empirique ne sont
+> présentés comme acquis. Le terrain devra produire — ou ne pas produire — les éléments qui
+> permettront ensuite de discuter les propositions.
+>
+> **Valax :** Très bien, Monsieur MINANG. Maintenez cette discipline dans chaque chapitre :
+> un dispositif prévu n'est pas une donnée, une hypothèse n'est pas un résultat et une
+> possibilité d'action n'est pas encore une recommandation validée. Le jury jugera d'abord la
+> qualité du raisonnement et du dispositif ; les résultats ne pourront être discutés qu'après
+> leur production et leur traçabilité.
+
+**Clôture de l'addendum 2.** Résolu : la distinction entre méthodologie conçue, terrain à
+venir et résultats empiriques est verrouillée. Le prochain intervenant est **Sabrina Loufrani**.
+
+
 ---
 
 ## Conversation n° 2 — 08/09/2026 — GO de l'auteur : fiche concept GA rédigée, passage jury n° 1 rendu (T1 livré)

@@ -42,7 +42,7 @@
    `docs/ARCHIVES.md`**. En cas de conflit entre ta mémoire de conversation et
    ces fichiers, **ces fichiers gagnent**.
 
-## 1. ÉTAT — où on s'est arrêté (màj : 08/09/2026, nouveau cycle — conversation n° 1 : résumé + jury recentré sur le fond)
+## 1. ÉTAT — où on s'est arrêté (màj : 08/09/2026, nouveau cycle — méthodologie conçue, terrain non réalisé)
 
 - **Dépôt GitHub propre et prêt : `upl-gabon/These-Presidence`**, branche `main`
   (site 4 pages FR + CSS/JS autonomes, jury simulé, tests ; extraction du 08/09/2026
@@ -59,6 +59,9 @@
   `proposition IA — à valider par l'auteur`. **Passage jury n° 1 rendu : Rive ✅ · Valax ✅ ·
   Loufrani ✅ — aucun ❌** (réserves mineures enregistrées : littérature réelle au chap. 2 ;
   branchement guide/grilles en T2 ; pilote de codage avant terrain).
+- **État empirique (clarification de l'auteur, 08/09/2026)** : le terrain n'a pas encore été
+  réalisé. Le travail actuel porte sur la conception de la méthodologie et de ses outils ;
+  aucun entretien, observation, donnée ou résultat empirique n'est présenté comme acquis.
 - **Temps jury actif (D7)** : à CHAQUE conversation, un membre du jury pose une
   question ou donne un conseil — dialogue dynamique (1–3 passes), puis clôture
   (résolu ou explicitement reporté), tout consigné dans le Journal des échanges
@@ -67,7 +70,9 @@
   temporelle + issue possible sans GA — intégrés à la fiche v1.1). Échange n° 3 : Loufrani
   (08/09/2026, protocole T2 daté/versionné, branchement A1–A5 et saturation informationnelle).
   Échange n° 4 : Rive (08/09/2026, contribution scientifique de la gouvernance augmentée
-  aux EPES gabonais, au-delà de la forme). **Prochain intervenant : Valax.**
+  aux EPES gabonais, au-delà de la forme). Échange n° 5 : Valax (08/09/2026, clarification
+  méthodologie conçue / terrain non réalisé / résultats à venir). **Prochain intervenant :
+  Loufrani.**
 - **Garde-fous anti-hallucination actifs (D9)** : `docs/GARDE_FOUS_IA.md` — dix
   garde-fous + checklist de fin de conversation. L'IA rédige et critique, elle
   n'invente jamais ; un seul garde-fou violé = livraison refusée.
@@ -148,6 +153,11 @@
   les tests et l'archivage ne sont pas des objets de jugement ; la méthode n'est discutée
   que lorsqu'elle conditionne la validité scientifique.
 
+- D12. **Terrain non réalisé** (clarification de l'auteur, 08/09/2026) : le travail actuel est
+  la conception de la méthodologie et de ses outils. Aucun entretien, observation, document
+  de terrain, résultat ou conclusion empirique ne doit être présenté comme déjà acquis ; le
+  jury évalue le dispositif prévu, pas des résultats qui n'existent pas encore.
+
 ## 4. Règles express (rappel sec)
 
 - Parler français. Ton : factuel, sobre ; jamais défensif, jamais de promesse.
@@ -175,7 +185,12 @@
   une critique scientifique de la contribution — question, concept, mécanisme, contexte,
   preuves et limites — plutôt qu'une appréciation du dépôt ou de sa présentation. Échange
   n° 4 : Rive, sur la contribution substantielle de la gouvernance augmentée aux EPES
-  gabonais ; orientation résolue. Prochain intervenant : **Valax**.
+  gabonais ; orientation résolue.
+
+- **08/09/2026 (clarification empirique de l'auteur)** : le terrain n'est pas réalisé ; le
+  travail actuel est la conception de la méthodologie. Échange n° 5 : Valax verrouille la
+  distinction entre dispositif prévu, données à recueillir et résultats à établir. Aucun
+  résultat empirique n'est affirmé. Prochain intervenant : **Loufrani**.
 
 - **08/09/2026 (GO auteur — T1 livré : fiche concept GA + passage jury n° 1)** : GO de
   l'auteur reçu (« on continue, on fusionne sans demander ; rien de technique à demander

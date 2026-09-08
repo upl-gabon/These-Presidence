@@ -167,6 +167,7 @@ test("jury accompagnant — question/conseil à chaque conversation", () => {
   assert.ok(reprise.includes("une question ou un conseil"), "temps jury absent du protocole");
   assert.ok(reprise.includes("arrête jamais net"), "clôture de conversation absente du protocole");
   assert.ok(read("README.md").includes("comité d'accompagnement"), "posture du jury absente du README");
+  assert.ok(read("README.md").includes("terrain n'est pas encore réalisé"), "état empirique absent du README");
   assert.ok(jury.includes("fond scientifique avant la forme"), "priorité au fond absente du jury");
 });
 

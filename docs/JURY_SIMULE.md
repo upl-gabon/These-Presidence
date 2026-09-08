@@ -22,6 +22,12 @@ périmètre uniquement lorsqu'elles conditionnent la validité du savoir produit
 pas des remarques de forme. Une présentation claire est utile, mais elle ne peut jamais
 remplacer une contribution démontrée.
 
+**État empirique à respecter :** le terrain n'est pas encore réalisé. Le travail actuel porte
+sur la conception de la méthodologie et de ses outils ; il n'existe donc pas encore, dans ce
+dépôt, d'entretiens, d'observations, de résultats ou de conclusions empiriques à évaluer. Le
+jury peut juger la solidité du concept et du dispositif prévu, jamais transformer ce dispositif
+en preuve de terrain.
+
 ## Les trois membres (composition validée le 08/09/2026)
 
 | # | Membre (identité vérifiée) | Rôle dans le jury simulé | Lentille |
@@ -92,8 +98,9 @@ scène interne, sans implication des personnes nommées)* :
 | 2 | 08/09/2026 | Valax | Fiche concept GA (T1) : deux exigences avant rédaction — (1) **reconnaissabilité managériale** : un dirigeant d'EPES doit pouvoir reconnaître (ou non) la GA dans une scène de décision concrète, lundi matin ; (2) **épaisseur temporelle** : la polycrise est un processus, la gouvernance se joue dans la durée — des marqueurs longitudinaux datés sont exigés ; si aucun cas ne documente la GA, la thèse le conclura, sans repli rhétorique | Marqueurs longitudinaux ajoutés à chaque attribut (fiche § 3) ; unité d'observation = scène décisionnelle ; règle d'inférence « issue possible sans GA documentée » (fiche § 7.4) ; branchement sur le guide (annexe A) et les grilles (annexe D) programmé en T2 | Résolu (intégré fiche v1.1) — passage jury n° 1 rendu |
 | 3 | 08/09/2026 | Loufrani | T2 : avant le terrain, rendre le protocole daté et versionné ; relier A1–A5 au guide d'entretien, aux grilles d'observation/documentaire et au dictionnaire de codes ; traiter les 45 participants comme une cible, jamais comme un quota, avec une règle d'arrêt par saturation informationnelle | Cadrage confirmé : branchement A1–A5 sur les annexes A, D et F ; pilote de codage avant terrain ; saturation informationnelle et écarts de protocole à journaliser | Résolu comme cadrage — T2 à engager |
 | 4 | 08/09/2026 | Chabanne-Rive | Le jury doit porter prioritairement sur le fond : quelle contribution la « gouvernance augmentée » apporte-t-elle réellement aux EPES gabonais, au-delà du vocabulaire IA × IE et des outils de présentation ? | Orientation confirmée : éprouver le concept, son mécanisme, ses frontières, ses scènes de décision et sa contribution empirique ; la forme n'est discutée que si elle affecte la validité scientifique | Résolu comme orientation — prochain livrable à juger sur le fond |
+| 5 | 08/09/2026 | Valax | Clarification d'état : le terrain n'est pas réalisé ; seule la méthodologie est conçue. Le jury doit distinguer dispositif prévu, données effectivement recueillies et résultats qui restent à établir | Aucun résultat empirique affirmé ; les prochains livrables seront jugés comme conception méthodologique et hypothèses de travail, non comme résultats de terrain | Résolu — distinction méthodologie / résultats verrouillée |
 
-*Prochain intervenant : **Valax** (puis Loufrani, puis Rive).*
+*Prochain intervenant : **Loufrani** (puis Rive, puis Valax).*
 
 ---
 
@@ -153,6 +160,32 @@ en objets de jugement.
 **Clôture de l'échange :** résolu comme orientation scientifique — les prochains échanges
 et livrables du jury porteront sur le fond de la contribution ; les éléments de forme ne seront
 retenus que s'ils compromettent la validité, la traçabilité ou l'interprétation scientifique.
+
+## Échange jury n° 5 — Marc Valax : « Vous concevez le terrain ; vous ne l'avez pas encore observé »
+
+**Clarification de l'état empirique, à la demande de l'auteur.** Le jury simulé ne doit pas
+parler comme si l'enquête avait déjà produit des données.
+
+> **Valax :** Monsieur MINANG, c'est une distinction décisive. Vous n'avez pas encore fait
+> le terrain : vous avez conçu la méthodologie. Je ne peux donc pas évaluer des résultats,
+> des effets ou des configurations observées. Je peux évaluer la promesse de savoir
+> actionnable du dispositif prévu, ses conditions de test et la séparation entre ce qui est
+> conçu, ce qui sera observé et ce qui restera peut-être absent.
+>
+> **Réponse de travail (auteur/IA) :** C'est acté. À ce stade, la fiche GA, le protocole à
+> construire et les outils associés sont des propositions de conception méthodologique. Aucun
+> entretien, aucune observation, aucun document de terrain et aucun résultat empirique ne sont
+> présentés comme acquis. Le terrain devra produire — ou ne pas produire — les éléments qui
+> permettront ensuite de discuter les propositions.
+>
+> **Valax :** Très bien, Monsieur MINANG. Maintenez cette discipline dans chaque chapitre :
+> un dispositif prévu n'est pas une donnée, une hypothèse n'est pas un résultat et une
+> possibilité d'action n'est pas encore une recommandation validée. Le jury jugera d'abord la
+> qualité du raisonnement et du dispositif ; les résultats ne pourront être discutés qu'après
+> leur production et leur traçabilité.
+
+**Clôture de l'échange :** résolu — la distinction entre méthodologie conçue, terrain à venir
+et résultats empiriques est verrouillée. Aucun résultat de terrain n'est affirmé.
 
 ## Critique n° 1 — Jérôme Chabanne-Rive : « Vous étudiez des écoles — montrez que vous savez ce qu'est une école »
 
