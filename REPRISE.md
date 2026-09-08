@@ -71,6 +71,11 @@
   et « sous réserve du terrain » sont correctement maintenus ; aucune donnée empirique n'est
   attribuée au document. Première lecture jury : base préparatoire solide, réserves sur le
   verrouillage du protocole T2, la littérature à vérifier et la future démonstration de P4.
+- **Proposition d'amélioration du support (08/09/2026)** :
+  `docs/DEPOT_AUTEUR/PROPOSITION_SUPPORT_SOUTENANCE_PRE_TERRAIN.md` propose une trame en 20
+  diapositives qui sépare explicitement travail préparatoire, propositions à éprouver,
+  matériaux à recueillir et résultats à établir. Elle est marquée `proposition IA — à valider
+  par l'auteur` et ne remplace pas le PDF reçu sans GO sur le fond.
 - **Temps jury actif (D7)** : à CHAQUE conversation, un membre du jury pose une
   question ou donne un conseil — dialogue dynamique (1–3 passes), puis clôture
   (résolu ou explicitement reporté), tout consigné dans le Journal des échanges
@@ -81,7 +86,8 @@
   Échange n° 4 : Rive (08/09/2026, contribution scientifique de la gouvernance augmentée
   aux EPES gabonais, au-delà de la forme). Échange n° 5 : Valax (08/09/2026, clarification méthodologie conçue / terrain non réalisé /
   résultats à venir). Échange n° 6 : Loufrani (08/09/2026, lecture du support préparatoire,
-  placeholders de résultats et verrouillage T2). **Prochain intervenant : Rive.**
+  placeholders de résultats et verrouillage T2). Échange n° 7 : Rive (08/09/2026, proposition
+  d'un support plus explicite sur le statut pré-terrain). **Prochain intervenant : Valax.**
 - **Garde-fous anti-hallucination actifs (D9)** : `docs/GARDE_FOUS_IA.md` — dix
   garde-fous + checklist de fin de conversation. L'IA rédige et critique, elle
   n'invente jamais ; un seul garde-fou violé = livraison refusée.
@@ -205,8 +211,12 @@
   `docs/DEPOT_AUTEUR/`. Il présente une architecture préparatoire de soutenance, 23 slides
   d'exposé et les annexes A1–A6 ; les résultats sont explicitement réservés au terrain.
   Échange n° 6 : Loufrani relit le fond méthodologique et confirme que le document doit être
-  traité comme un dispositif à éprouver, non comme un bilan empirique. Prochain intervenant :
-  **Rive**.
+  traité comme un dispositif à éprouver, non comme un bilan empirique.
+
+- **08/09/2026 (proposition de support amélioré)** : une trame pré-terrain en 20 diapositives
+  est proposée dans `docs/DEPOT_AUTEUR/PROPOSITION_SUPPORT_SOUTENANCE_PRE_TERRAIN.md`.
+  Échange n° 7 : Rive recentre la proposition sur le statut des connaissances, la contribution
+  et la démonstration future ; aucun résultat n'est ajouté. Prochain intervenant : **Valax**.
 
 - **08/09/2026 (GO auteur — T1 livré : fiche concept GA + passage jury n° 1)** : GO de
   l'auteur reçu (« on continue, on fusionne sans demander ; rien de technique à demander

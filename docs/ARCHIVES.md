@@ -189,6 +189,39 @@ architecture à éprouver ; aucun résultat empirique n'est validé. Le prochain
 **Jérôme Chabanne-Rive**.
 
 
+**Addendum 4 — proposition d'un support plus explicite avant le terrain.** À la suite de la
+lecture du PDF, une trame de 20 diapositives a été proposée dans
+`docs/DEPOT_AUTEUR/PROPOSITION_SUPPORT_SOUTENANCE_PRE_TERRAIN.md`. Elle sépare explicitement
+quatre statuts : travail préparatoire, propositions à éprouver, matériaux à recueillir et
+résultats à établir. Elle recentre la présentation sur la contribution, la scène
+décisionnelle, la chaîne de preuves, le codage, la saturation, les limites et les conditions
+de recommandations. Elle est marquée `proposition IA — à valider par l'auteur` et ne remplace
+pas le PDF reçu sans validation de fond.
+
+**Échange jury n° 7 — Jérôme Chabanne-Rive (temps jury, dialogue complet).**
+
+> **Rive :** Serge, une meilleure soutenance préparatoire n'est pas une soutenance qui
+> remplit les cases vides avec des phrases plus élégantes. C'est une soutenance qui permet
+> au jury de distinguer, dès la première minute, ce qui est déjà établi, ce qui est proposé,
+> ce qui sera recueilli et ce qui ne pourra être établi qu'après le terrain. Le centre doit
+> rester votre contribution : qu'est-ce que P4 cherche à expliquer, et quelle observation
+> pourrait la mettre en difficulté ?
+>
+> **Réponse de travail (auteur/IA) :** La proposition sépare ces quatre statuts, place la
+> question et le périmètre avant les résultats futurs, décrit la scène décisionnelle, la
+> chaîne de preuves, le codage, la saturation et un gabarit de résultat. Elle conserve P1–P7
+> comme propositions à confronter et réserve toute réponse finale à l'enquête.
+>
+> **Rive :** C'est la bonne correction. Ne faites pas de la prudence une faiblesse : dire
+> « résultat à établir » est plus scientifique que d'annoncer un résultat sans matériau. La
+> prochaine version devra toutefois rester courte à l'oral et laisser la place aux cas, quand
+> ils existeront. Pour l'instant, la trame est recevable comme support pré-terrain.
+
+**Clôture de l'addendum 4.** Résolu comme proposition de travail : trame améliorée, aucun
+résultat ajouté ; validation du fond par l'auteur encore requise. Le prochain intervenant est
+**Marc Valax**.
+
+
 ---
 
 ## Conversation n° 2 — 08/09/2026 — GO de l'auteur : fiche concept GA rédigée, passage jury n° 1 rendu (T1 livré)

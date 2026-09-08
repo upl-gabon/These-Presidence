@@ -100,8 +100,9 @@ scène interne, sans implication des personnes nommées)* :
 | 4 | 08/09/2026 | Chabanne-Rive | Le jury doit porter prioritairement sur le fond : quelle contribution la « gouvernance augmentée » apporte-t-elle réellement aux EPES gabonais, au-delà du vocabulaire IA × IE et des outils de présentation ? | Orientation confirmée : éprouver le concept, son mécanisme, ses frontières, ses scènes de décision et sa contribution empirique ; la forme n'est discutée que si elle affecte la validité scientifique | Résolu comme orientation — prochain livrable à juger sur le fond |
 | 5 | 08/09/2026 | Valax | Clarification d'état : le terrain n'est pas réalisé ; seule la méthodologie est conçue. Le jury doit distinguer dispositif prévu, données effectivement recueillies et résultats qui restent à établir | Aucun résultat empirique affirmé ; les prochains livrables seront jugés comme conception méthodologique et hypothèses de travail, non comme résultats de terrain | Résolu — distinction méthodologie / résultats verrouillée |
 | 6 | 08/09/2026 | Loufrani | Support de soutenance préparatoire révisé : les résultats sont laissés à établir, mais le protocole T2 doit encore être verrouillé avant le terrain (guide, grilles, codebook, pilote, saturation) ; P4 doit rester une proposition à éprouver | Support lu comme architecture de recherche, non comme bilan empirique ; marqueurs `[Résultat]`, `[À établir]` et « sous réserve du terrain » conservés ; T2 reste le verrou scientifique | Résolu comme lecture préparatoire — aucun ❌ empirique |
+| 7 | 08/09/2026 | Chabanne-Rive | Proposition de support pré-terrain : rendre immédiatement visible ce qui est connu, proposé, à recueillir et à établir ; faire de la contribution et de la future démonstration le centre de la soutenance | Trame en 20 diapositives proposée ; aucun résultat ajouté ; statut `proposition IA — à valider par l'auteur` conservé | Résolu comme proposition — validation de fond par l'auteur requise |
 
-*Prochain intervenant : **Rive** (puis Valax, puis Loufrani).*
+*Prochain intervenant : **Valax** (puis Loufrani, puis Rive).*
 
 ---
 
@@ -216,6 +217,31 @@ Cette lecture porte sur le fond méthodologique et scientifique, pas sur la mise
 **Clôture de l'échange :** résolu comme lecture préparatoire — le document est accepté comme
 architecture à éprouver ; aucun résultat empirique n'est validé, et T2 reste le prochain
 verrou scientifique.
+
+## Échange jury n° 7 — Jérôme Chabanne-Rive : « Un meilleur support est d'abord plus honnête sur ce qu'il sait »
+
+**Lecture de la proposition** `docs/DEPOT_AUTEUR/PROPOSITION_SUPPORT_SOUTENANCE_PRE_TERRAIN.md`.
+Cette lecture porte sur le fond de l'architecture proposée, non sur sa mise en page.
+
+> **Rive :** Serge, une meilleure soutenance préparatoire n'est pas une soutenance qui
+> remplit les cases vides avec des phrases plus élégantes. C'est une soutenance qui permet
+> au jury de distinguer, dès la première minute, ce qui est déjà établi, ce qui est proposé,
+> ce qui sera recueilli et ce qui ne pourra être établi qu'après le terrain. Le centre doit
+> rester votre contribution : qu'est-ce que P4 cherche à expliquer, et quelle observation
+> pourrait la mettre en difficulté ?
+>
+> **Réponse de travail (auteur/IA) :** La proposition sépare ces quatre statuts, place la
+> question et le périmètre avant les résultats futurs, décrit la scène décisionnelle, la
+> chaîne de preuves, le codage, la saturation et un gabarit de résultat. Elle conserve P1–P7
+> comme propositions à confronter et réserve toute réponse finale à l'enquête.
+>
+> **Rive :** C'est la bonne correction. Ne faites pas de la prudence une faiblesse : dire
+> « résultat à établir » est plus scientifique que d'annoncer un résultat sans matériau. La
+> prochaine version devra toutefois rester courte à l'oral et laisser la place aux cas, quand
+> ils existeront. Pour l'instant, la trame est recevable comme support pré-terrain.
+
+**Clôture de l'échange :** résolu comme proposition de travail — trame améliorée, aucun
+résultat ajouté ; validation du fond par l'auteur encore requise.
 
 ## Critique n° 1 — Jérôme Chabanne-Rive : « Vous étudiez des écoles — montrez que vous savez ce qu'est une école »
 
@@ -363,6 +389,7 @@ orienté. Mais l'ambition qualitative se paie en discipline d'exécution. C'est 
 | 08/09/2026 | Plan harmonisé + liste des supports (v. sept. 2026) — jury recomposé (Rive/Valax/Loufrani) | ⚠️ réserve (gouvernance des écoles : existant ? + scènes observées) | ⚠️ surveillance (actionnabilité + longitudinal à démontrer) | ⚠️ condition (protocole C–D + saturation + compétences 3 niveaux) | Base validée ; 3 chantiers prioritaires ouverts (voir exigences conjointes) |
 | 08/09/2026 | **Passage n° 1 — Fiche concept GA v1.1** (T1, § 3.2–3.3) : définition, 5 attributs observables, 3 exclusions, 2 cas-limites tranchés, glossaire, règles d'inférence | ✅ solide — réserve mineure (littérature réelle à mobiliser au chap. 2, § 2.2 ; trous assumés) | ✅ solide — réserve mineure (indicateurs à brancher sur guide A et grilles D en T2) | ✅ solide — réserve mineure (pilote de codage sur documents réels avant le terrain) | Validée pour fonction d'outillage (aucun ❌) ; en attente de la validation du fond par l'auteur |
 | 08/09/2026 | **Passage préparatoire — Support de soutenance révisé** (23 slides + annexes A1–A6, avant terrain) | ⚠️ réserve — contribution et contexte gabonais à éprouver par les cas | ⚠️ surveillance — architecture actionnable, mais aucun résultat ni recommandation validés | ⚠️ réserve — protocole T2, pilote et saturation à verrouiller avant collecte | Base préparatoire recevable ; aucun ❌ ; ne vaut pas passage de résultats |
+| 08/09/2026 | **Proposition IA — Support pré-terrain v2** (20 diapositives proposées, sans résultat) | ⚠️ réserve — contribution à garder au centre et contexte à documenter par les cas | ⚠️ surveillance — statut pré-terrain clarifié, utilité encore à éprouver | ⚠️ réserve — protocole et saturation restent à verrouiller | Proposition recevable comme trame ; validation de fond par l'auteur requise |
 
 ## Passage jury n° 1 — Fiche concept GA (v1.1, 08/09/2026)
 

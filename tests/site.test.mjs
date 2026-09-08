@@ -43,6 +43,7 @@ test("pages, styles, script et docs existent", () => {
     "docs/FICHE_CONCEPT_GA.md",
     "docs/DEPOT_AUTEUR/README.md",
     "docs/DEPOT_AUTEUR/Soutenance_DBA_MINANG_version_revisee_Phoenix.pdf",
+    "docs/DEPOT_AUTEUR/PROPOSITION_SUPPORT_SOUTENANCE_PRE_TERRAIN.md",
     "package.json",
     "robots.txt",
   ]) {
