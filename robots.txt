@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /
+
+# Zone privée : thèse en cours (noindex aussi sur chaque page).
+# Pour rendre public un jour (décision auteur) :
+# supprimer ce fichier + retirer les meta noindex des pages.
