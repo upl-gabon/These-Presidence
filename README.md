@@ -41,6 +41,8 @@ Travail en cours (septembre 2026).
 │                    question/conseil à chaque conversation + critiques + exigences + journaux
 ├── docs/GARDE_FOUS_IA.md  Garde-fous anti-hallucination IA — dix règles + checklist (D9)
 ├── docs/ARCHIVES.md     Archives des conversations — mémoire intégrale (systématique)
+├── docs/FICHE_CONCEPT_GA.md  Fiche concept « gouvernance augmentée » (T1) —
+│                    proposition IA — à valider par l'auteur avant intégration au manuscrit
 ├── REPRISE.md       ★ Reprise instantanée — lire et maintenir en premier
 ├── robots.txt       Zone privée (voir règle 2)
 └── package.json

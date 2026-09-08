@@ -40,6 +40,7 @@ test("pages, styles, script et docs existent", () => {
     "docs/JURY_SIMULE.md",
     "docs/GARDE_FOUS_IA.md",
     "docs/ARCHIVES.md",
+    "docs/FICHE_CONCEPT_GA.md",
     "package.json",
     "robots.txt",
   ]) {
