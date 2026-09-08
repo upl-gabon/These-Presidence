@@ -16,8 +16,10 @@ confirme qu'il contient une architecture de recherche et des emplacements de ré
 
 Une proposition de support plus explicite est également disponible dans
 `PROPOSITION_SUPPORT_SOUTENANCE_PRE_TERRAIN.md`, avec une présentation PowerPoint de 20
-diapositives et un visuel de couverture PNG. Ces fichiers restent une proposition IA à
-valider par l'auteur et ne remplacent pas le support PDF sans décision de l'auteur.
+diapositives et un visuel de couverture PNG. **Décision de l'auteur : cette ébauche est
+validée comme base de travail, conservée et devient le support à faire évoluer.** Le PDF
+initial reste une référence séparée ; le statut pré-terrain et la validation du fond
+scientifique demeurent inchangés.
 
 ## Règles de dépôt
 

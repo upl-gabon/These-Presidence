@@ -227,6 +227,12 @@ résultat ajouté ; validation du fond par l'auteur encore requise. Le prochain 
 forme de la proposition précédente, pas d'un nouveau contenu empirique ni d'un verdict
 scientifique. Le PDF initial reste conservé séparément.
 
+**Addendum 6 — décision de l'auteur.** L'auteur valide l'ébauche comme base de travail à
+conserver. Le PPTX devient le support de référence pour les prochaines modifications ; le
+PDF initial demeure une archive et le statut pré-terrain reste inchangé. Cette validation ne
+constitue pas une validation de résultats empiriques ni du fond scientifique à la place de
+l'auteur.
+
 
 ---
 

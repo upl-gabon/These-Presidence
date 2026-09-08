@@ -76,8 +76,10 @@
   diapositives qui sépare explicitement travail préparatoire, propositions à éprouver,
   matériaux à recueillir et résultats à établir. Elle est marquée `proposition IA — à valider
   par l'auteur` et ne remplace pas le PDF reçu sans GO sur le fond. Une version PowerPoint
-  de 12 diapositives et un visuel de couverture PNG ont été générés à partir de cette trame ;
+  de 20 diapositives et un visuel de couverture PNG ont été générés à partir de cette trame ;
   leur fonction est de présenter le même statut pré-terrain, sans ajouter de résultat.
+  **L'auteur valide cette ébauche comme base de travail à conserver : les prochaines
+  modifications se feront sur ce PPTX.**
 - **Temps jury actif (D7)** : à CHAQUE conversation, un membre du jury pose une
   question ou donne un conseil — dialogue dynamique (1–3 passes), puis clôture
   (résolu ou explicitement reporté), tout consigné dans le Journal des échanges
@@ -175,6 +177,12 @@
   de terrain, résultat ou conclusion empirique ne doit être présenté comme déjà acquis ; le
   jury évalue le dispositif prévu, pas des résultats qui n'existent pas encore.
 
+- D14. **Support de travail retenu** (décision de l'auteur, 08/09/2026) :
+  `docs/DEPOT_AUTEUR/PROPOSITION_SUPPORT_SOUTENANCE_PRE_TERRAIN.pptx` est l'ébauche validée
+  et conservée sur laquelle les prochaines évolutions seront réalisées. Cette décision porte
+  sur la base de présentation et n'emporte pas validation de résultats empiriques : le statut
+  pré-terrain, les réserves et la validation scientifique du fond restent inchangés.
+
 ## 4. Règles express (rappel sec)
 
 - Parler français. Ton : factuel, sobre ; jamais défensif, jamais de promesse.
@@ -215,11 +223,11 @@
   Échange n° 6 : Loufrani relit le fond méthodologique et confirme que le document doit être
   traité comme un dispositif à éprouver, non comme un bilan empirique.
 
-- **08/09/2026 (proposition de support amélioré)** : une trame pré-terrain en 20 diapositives
-  est proposée dans `docs/DEPOT_AUTEUR/PROPOSITION_SUPPORT_SOUTENANCE_PRE_TERRAIN.md`, avec
-  une présentation PowerPoint de 20 diapositives et un visuel de couverture. Échange n° 7 :
-  Rive recentre la proposition sur le statut des connaissances, la contribution et la
-  démonstration future ; aucun résultat n'est ajouté. Prochain intervenant : **Valax**.
+- **08/09/2026 (ébauche validée comme base de travail)** : la trame pré-terrain et sa
+  présentation PowerPoint de 20 diapositives sont conservées ; le PPTX devient le support
+  de travail à faire évoluer. Échange n° 7 : Rive recentre la proposition sur le statut des
+  connaissances, la contribution et la démonstration future ; aucun résultat n'est ajouté.
+  Prochain intervenant : **Valax**.
 
 - **08/09/2026 (GO auteur — T1 livré : fiche concept GA + passage jury n° 1)** : GO de
   l'auteur reçu (« on continue, on fusionne sans demander ; rien de technique à demander
