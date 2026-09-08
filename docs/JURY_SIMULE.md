@@ -91,14 +91,9 @@ scène interne, sans implication des personnes nommées)* :
 | 1 | 08/09/2026 | Chabanne-Rive | Fiche concept GA (T1) : définir la « gouvernance augmentée » **dans** l'existant de la gouvernance des établissements d'enseignement (collégiale vs managériale, dirigeant-fondateur, tutelles, accréditations) — sinon « augmentée » restera un slogan plaqué, pas un concept | Consigne intégrée au cahier des charges de T1 (positionnement explicite dans l'existant + glossaire discipliné) ; rédaction en attente du GO auteur | Résolu (consigne intégrée) — T1 en attente GO |
 | 2 | 08/09/2026 | Valax | Fiche concept GA (T1) : deux exigences avant rédaction — (1) **reconnaissabilité managériale** : un dirigeant d'EPES doit pouvoir reconnaître (ou non) la GA dans une scène de décision concrète, lundi matin ; (2) **épaisseur temporelle** : la polycrise est un processus, la gouvernance se joue dans la durée — des marqueurs longitudinaux datés sont exigés ; si aucun cas ne documente la GA, la thèse le conclura, sans repli rhétorique | Marqueurs longitudinaux ajoutés à chaque attribut (fiche § 3) ; unité d'observation = scène décisionnelle ; règle d'inférence « issue possible sans GA documentée » (fiche § 7.4) ; branchement sur le guide (annexe A) et les grilles (annexe D) programmé en T2 | Résolu (intégré fiche v1.1) — passage jury n° 1 rendu |
 | 3 | 08/09/2026 | Loufrani | T2 : avant le terrain, rendre le protocole daté et versionné ; relier A1–A5 au guide d'entretien, aux grilles d'observation/documentaire et au dictionnaire de codes ; traiter les 45 participants comme une cible, jamais comme un quota, avec une règle d'arrêt par saturation informationnelle | Cadrage confirmé : branchement A1–A5 sur les annexes A, D et F ; pilote de codage avant terrain ; saturation informationnelle et écarts de protocole à journaliser | Résolu comme cadrage — T2 à engager |
-<<<<<<< HEAD
 | 4 | 08/09/2026 | Chabanne-Rive | Le jury doit porter prioritairement sur le fond : quelle contribution la « gouvernance augmentée » apporte-t-elle réellement aux EPES gabonais, au-delà du vocabulaire IA × IE et des outils de présentation ? | Orientation confirmée : éprouver le concept, son mécanisme, ses frontières, ses scènes de décision et sa contribution empirique ; la forme n'est discutée que si elle affecte la validité scientifique | Résolu comme orientation — prochain livrable à juger sur le fond |
 
 *Prochain intervenant : **Valax** (puis Loufrani, puis Rive).*
-=======
-
-*Prochain intervenant : **Rive** (puis Valax, puis Loufrani).*
->>>>>>> eb3359a09f318456012f67376df2b467a64f30c7
 
 ---
 
@@ -129,7 +124,6 @@ est un outil interne de travail et ne constitue pas une déclaration des personn
 préalable, le pilote de codage et la saturation informationnelle sont confirmés comme
 prochaines actions ; aucun résultat de terrain n'est affirmé.
 
-<<<<<<< HEAD
 ## Échange jury n° 4 — Jérôme Chabanne-Rive : « Parlons de la contribution, pas de l'habillage »
 
 **Temps jury de la même conversation.** Cette intervention applique l'orientation demandée :
@@ -160,8 +154,6 @@ en objets de jugement.
 et livrables du jury porteront sur le fond de la contribution ; les éléments de forme ne seront
 retenus que s'ils compromettent la validité, la traçabilité ou l'interprétation scientifique.
 
-=======
->>>>>>> eb3359a09f318456012f67376df2b467a64f30c7
 ## Critique n° 1 — Jérôme Chabanne-Rive : « Vous étudiez des écoles — montrez que vous savez ce qu'est une école »
 
 **Appréciation générale.** J'ai dirigé une école de management pendant dix ans et évalué
