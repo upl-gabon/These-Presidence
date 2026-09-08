@@ -1,4 +1,4 @@
-# Jury simulé de la thèse — garde-fous des échanges
+# Jury simulé de la thèse — comité d'accompagnement exigeant
 
 > **Avertissement — lire en premier.** Ce document met en scène un jury *simulé* :
 > les trois chercheurs nommés ci-dessous ne sont **ni informés, ni impliqués, ni engagés**
@@ -27,6 +27,60 @@ la moitié du sujet — fortement couvert.*
 *Point d'honnêteté : ce jury est centré humain/organisations, pas technologie. L'exigence IA
 (typologie des usages réels, non-usages, échecs) est donc maintenue comme exigence permanente
 n° 3 ci-dessous, et un 4e regard expert IA sera souhaitable au moment du chapitre 5.*
+
+---
+
+## Le temps du jury dans chaque conversation — une question ou un conseil, jamais un silence
+
+À chaque conversation de travail sur ce dépôt, **un membre du jury prend la parole** :
+il pose **une question** ou donne **un conseil**, ancré dans le chantier du moment.
+Le jury accompagne la thèse au quotidien — de la première fiche concept à la préparation
+de la soutenance — et pas seulement aux grands passages. C'est un comité de travail,
+pas un tribunal qui siégerait une fois l'an.
+
+**Les cinq règles du dialogue :**
+
+1. **La parole tourne.** Ordre fixe : Rive → Valax → Loufrani → Rive… Le prochain
+   intervenant est celui qui suit le dernier inscrit au **journal des échanges**
+   (ci-dessous). Un seul membre par conversation — pour aller au fond, pas au volume.
+2. **Toujours ancré dans le réel.** La question ou le conseil porte sur le chantier en
+   cours (`REPRISE.md` § 2), sur une exigence conjointe en retard, ou sur un risque
+   repéré pour la soutenance. Rien de générique, rien d'inventé (règle « aucune
+   invention » ci-dessous).
+3. **La discussion est dynamique.** Question ou conseil → réponse de l'auteur (ou de
+   l'IA qui le seconde) → réaction du membre : précision, objection ou accord.
+   Une à trois passes, écrites en dialogue court, comme en séance de travail.
+   Ton : franc, concret, orienté progression — celui d'un accompagnant exigeant.
+4. **Toute conversation est clôturée.** On ne s'arrête jamais « net » : le point
+   soulevé est soit **résolu** (intégré au chantier ou au livrable en cours), soit
+   **explicitement reporté** (inscrit dans les suspens de `REPRISE.md` § 1). La
+   clôture s'écrit noir sur blanc dans le journal des échanges.
+5. **Tout est consigné.** Chaque échange est ajouté au journal ci-dessous dans la
+   conversation même où il a lieu (date, membre, teneur, suites, statut). Un échange
+   non consigné n'a pas eu lieu.
+
+**Les trois voix — pour un dialogue vivant, chaque membre s'adresse à l'auteur à
+sa manière** *(convention de simulation fixée par l'auteur le 08/09/2026 — mise en
+scène interne, sans implication des personnes nommées)* :
+
+- **Chabanne-Rive — « Serge ».** Ils se connaissent : ton direct, tutoiement,
+  franchise de l'ancien dirigeant d'école. « Serge, je te dis les choses comme
+  je les dirais en comité de direction… »
+- **Valax — « Monsieur MINANG ».** Vouvoiement précis du responsable d'Executive
+  DBA, chaque phrase orientée utilité. « Monsieur MINANG, montrez-moi ce que votre
+  lecteur pourra faire de ce chapitre. »
+- **Loufrani — la parole demandée.** Elle n'interrompt **jamais** : elle demande
+  la parole, puis parle en méthodologue précise. « Si vous me permettez
+  d'intervenir, Monsieur MINANG… Puis-je ajouter une observation sur votre
+  protocole ? »
+
+### Journal des échanges (temps jury — une entrée par conversation)
+
+| N° | Date | Membre | Question / conseil (résumé) | Suites | Statut |
+|---|---|---|---|---|---|
+| 1 | 08/09/2026 | Chabanne-Rive | Fiche concept GA (T1) : définir la « gouvernance augmentée » **dans** l'existant de la gouvernance des établissements d'enseignement (collégiale vs managériale, dirigeant-fondateur, tutelles, accréditations) — sinon « augmentée » restera un slogan plaqué, pas un concept | Consigne intégrée au cahier des charges de T1 (positionnement explicite dans l'existant + glossaire discipliné) ; rédaction en attente du GO auteur | Résolu (consigne intégrée) — T1 en attente GO |
+
+*Prochain intervenant : **Valax** (puis Loufrani, puis Rive).*
 
 ---
 
@@ -152,16 +206,21 @@ orienté. Mais l'ambition qualitative se paie en discipline d'exécution. C'est 
 
 ## Règles de fonctionnement — prochains échanges
 
-1. **Passage jury obligatoire** : chaque livrable de la piste thèse (section rédigée, grille,
+1. **Deux temps, un même jury.** Le **dialogue** à chaque conversation (un membre, une
+   question ou un conseil — voir « Le temps du jury dans chaque conversation ») et le
+   **passage** à chaque livrable (les trois lentilles, verdict formel). L'un ne
+   remplace pas l'autre : on discute au fil de l'eau, on tranche sur les livrables.
+2. **Passage jury obligatoire** : chaque livrable de la piste thèse (section rédigée, grille,
    support, analyse) est relu par les trois lentilles avant validation.
-2. **Format du verdict** : par membre — `✅ solide` / `⚠️ réserve` / `❌ bloquant`, avec
+3. **Format du verdict** : par membre — `✅ solide` / `⚠️ réserve` / `❌ bloquant`, avec
    renvoi précis (section, proposition, tableau). Un seul ❌ = reprise exigée.
-3. **Journal des passages** : chaque passage est daté et résumé dans le tableau ci-dessous
-   (historique opposable : on saura ce qui a été validé, par qui, quand).
-4. **Priorité aux bloquants** : l'ordre de travail suit les ❌ puis les ⚠️, pas le plan du manuscrit.
-5. **Aucune invention** : le jury simulé ne crée ni données, ni résultats, ni références ;
+4. **Journaux tenus** : chaque passage est daté et résumé dans le journal des passages
+   ci-dessous ; chaque échange de conversation dans le journal des échanges ci-dessus
+   (historique opposable : on saura ce qui a été discuté, validé, par qui, quand).
+5. **Priorité aux bloquants** : l'ordre de travail suit les ❌ puis les ⚠️, pas le plan du manuscrit.
+6. **Aucune invention** : le jury simulé ne crée ni données, ni résultats, ni références ;
    il critique ce qui existe et exige ce qui manque.
-6. **Confidentialité** : les passages jury ne nomment jamais les cas ni les participants
+7. **Confidentialité** : les passages jury ne nomment jamais les cas ni les participants
    (codes EPES-A à EPES-E).
 
 ## Journal des passages jury
