@@ -12,7 +12,9 @@
 2. **Ouvrir ta réponse en disant EXACTEMENT où on s'est arrêté** (section 1).
 3. **Continuer directement** le chantier, avec par défaut la lentille jury :
    critique, améliorations, réflexion, rigueur, **exigence DBA**
-   (savoir actionnable, preuves tracées, rien d'inventé).
+   (savoir actionnable, preuves tracées, rien d'inventé). Le jury s'exprime d'abord
+   sur le **fond scientifique** ; la forme n'est examinée que si elle affecte la
+   validité, la traçabilité ou l'interprétation — jamais pour elle-même.
 4. **Temps jury — une question ou un conseil à CHAQUE conversation** : le membre
    dont c'est le tour (rotation Rive → Valax → Loufrani ; prochain intervenant =
    celui qui suit le dernier inscrit au journal des échanges de
@@ -40,7 +42,7 @@
    `docs/ARCHIVES.md`**. En cas de conflit entre ta mémoire de conversation et
    ces fichiers, **ces fichiers gagnent**.
 
-## 1. ÉTAT — où on s'est arrêté (màj : 08/09/2026, GO auteur — fiche concept GA livrée, passage jury n° 1 rendu)
+## 1. ÉTAT — où on s'est arrêté (màj : 08/09/2026, nouveau cycle — conversation n° 1 : résumé + jury recentré sur le fond)
 
 - **Dépôt GitHub propre et prêt : `upl-gabon/These-Presidence`**, branche `main`
   (site 4 pages FR + CSS/JS autonomes, jury simulé, tests ; extraction du 08/09/2026
@@ -62,8 +64,10 @@
   (résolu ou explicitement reporté), tout consigné dans le Journal des échanges
   (`docs/JURY_SIMULE.md`). Échange n° 1 : Rive (08/09/2026, fiche GA à positionner dans
   l'existant). Échange n° 2 : Valax (08/09/2026, reconnaissabilité managériale + épaisseur
-  temporelle + issue possible sans GA — intégrés à la fiche v1.1).
-  **Prochain intervenant : Loufrani.**
+  temporelle + issue possible sans GA — intégrés à la fiche v1.1). Échange n° 3 : Loufrani
+  (08/09/2026, protocole T2 daté/versionné, branchement A1–A5 et saturation informationnelle).
+  Échange n° 4 : Rive (08/09/2026, contribution scientifique de la gouvernance augmentée
+  aux EPES gabonais, au-delà de la forme). **Prochain intervenant : Valax.**
 - **Garde-fous anti-hallucination actifs (D9)** : `docs/GARDE_FOUS_IA.md` — dix
   garde-fous + checklist de fin de conversation. L'IA rédige et critique, elle
   n'invente jamais ; un seul garde-fou violé = livraison refusée.
@@ -138,6 +142,12 @@
   (§ 3.2–3.3) qu'après validation du fond par l'auteur — le jury simulé ne valide que
   leur fonction d'outillage (passage jury), jamais le fond à la place de l'auteur.
 
+- D11. **Jury = fond avant forme** (orientation de l'auteur, 08/09/2026) : les échanges et
+  passages portent d'abord sur la question, les concepts, la contribution, le contexte,
+  les preuves, l'interprétation et les conditions d'action. La mise en page, le site, Git,
+  les tests et l'archivage ne sont pas des objets de jugement ; la méthode n'est discutée
+  que lorsqu'elle conditionne la validité scientifique.
+
 ## 4. Règles express (rappel sec)
 
 - Parler français. Ton : factuel, sobre ; jamais défensif, jamais de promesse.
@@ -152,6 +162,20 @@
 - Validation : auteur (tout contenu). Dépôt privé recommandé.
 
 ## 5. Journal (bref — derniers en haut)
+
+- **08/09/2026 (nouveau cycle — conversation n° 1 : résumé et temps jury Loufrani)** :
+  prise de connaissance confirmée. État rappelé : dépôt autonome, T1 livré et relu par le
+  jury (Rive ✅ · Valax ✅ · Loufrani ✅, aucun ❌), fond de la fiche encore à valider par
+  l'auteur ; T2 est le prochain chantier. Loufrani demande un protocole daté/versionné,
+  le branchement A1–A5 sur les annexes A/D/F, un pilote de codage et une règle de saturation
+  informationnelle ; cadrage résolu et consigné dans le Journal des échanges. Archives :
+  conversation n° 1 du nouveau cycle (`docs/ARCHIVES.md`). Prochain intervenant : **Rive**.
+
+- **08/09/2026 (orientation de l'auteur : le fond avant la forme)** : le jury doit exprimer
+  une critique scientifique de la contribution — question, concept, mécanisme, contexte,
+  preuves et limites — plutôt qu'une appréciation du dépôt ou de sa présentation. Échange
+  n° 4 : Rive, sur la contribution substantielle de la gouvernance augmentée aux EPES
+  gabonais ; orientation résolue. Prochain intervenant : **Valax**.
 
 - **08/09/2026 (GO auteur — T1 livré : fiche concept GA + passage jury n° 1)** : GO de
   l'auteur reçu (« on continue, on fusionne sans demander ; rien de technique à demander

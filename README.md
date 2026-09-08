@@ -77,6 +77,11 @@ MINANG », la parole demandée) ; la discussion est dynamique puis **toujours
 clôturée** — résolue ou explicitement reportée. Une conversation ne s'arrête
 jamais net.
 
+La priorité du jury est le **fond scientifique** : question, concepts, contribution,
+contexte, preuves, interprétation et limites. La mise en page, le site, Git, les tests et
+l'archivage ne sont pas jugés pour eux-mêmes ; la forme n'entre en discussion que lorsqu'elle
+conditionne la validité ou la traçabilité scientifique.
+
 Chaque conversation est **archivée systématiquement** dans `docs/ARCHIVES.md`,
 sans solliciter l'utilisateur (l'auteur ne connaît pas GitHub : l'IA décide seule
 des questions techniques, l'auteur valide le fond scientifique) — **on ne perd

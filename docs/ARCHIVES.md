@@ -16,6 +16,107 @@ journal de `REPRISE.md` § 5 et dans l'historique Git.
 
 ---
 
+
+## Conversation n° 1 — 08/09/2026 — Nouveau cycle : résumé du travail et prise de parole du jury
+
+**Objet.** À l'ouverture de cette nouvelle arena, l'auteur demande un résumé du travail
+accompli et la prise de parole du jury. Les conversations n° 1 et n° 2 de l'ancien cycle
+restent conservées ci-dessous comme historique opposable ; la numérotation de ce cycle
+repart à n° 1, conformément à l'annonce de l'auteur.
+
+**Résumé transmis.**
+
+- La recherche porte sur la **gouvernance augmentée des EPES gabonais**, et sur
+  l'articulation IA × intelligence émotionnelle en situation de polycrise.
+- Le dépôt est autonome : site en quatre pages, pages discrètes, documents de travail,
+  tests et mémoire du chantier. `npm test` reste vert : **12/12**.
+- Le premier chantier, T1, est livré dans `docs/FICHE_CONCEPT_GA.md` (v1.1). La fiche
+  propose une définition opérationnelle, cinq attributs observables A1–A5, trois exclusions,
+  deux cas-limites, un glossaire et des règles d'inférence ; elle est explicitement marquée
+  `proposition IA — à valider par l'auteur`.
+- Le passage jury n° 1 de la fiche GA est favorable pour sa fonction d'outillage :
+  Chabanne-Rive ✅, Valax ✅, Loufrani ✅, aucun ❌. Les réserves restent suivies :
+  littérature réelle au chapitre 2, branchement sur le guide et les grilles en T2, pilote
+  de codage avant le terrain.
+- Le travail suivant est T2 : protocole de cas, annexes C–D, branchement des indicateurs
+  A1–A5 sur les annexes A/D/F, pilote de codage et saturation informationnelle. Les 45
+  participants restent une cible de travail, non un quota.
+- Restent à l'auteur la validation du **fond scientifique** de la fiche GA et, côté dépôt,
+  le passage en privé dans les réglages GitHub. Rien de nouveau n'est ajouté à la thèse
+  par ce résumé.
+
+**Réalisé (fichiers).**
+
+- `docs/JURY_SIMULE.md` — échange n° 3 ajouté au Journal des échanges ; prise de parole de
+  Loufrani consignée ; prochain intervenant passé à Rive.
+- `REPRISE.md` — état du nouveau cycle, journal et prochain chantier synchronisés.
+- `docs/ARCHIVES.md` — présente entrée d'archive.
+
+**Échange jury n° 3 — Sabrina Loufrani (temps jury, dialogue complet).**
+
+> **Loufrani — parole demandée :** Monsieur MINANG, si vous me permettez d'intervenir,
+> le prochain verrou est méthodologique. Avant tout entretien, le protocole doit être daté
+> et versionné. Comment allez-vous relier concrètement les indicateurs A1–A5 aux questions
+> d'entretien, aux observations, aux documents et au dictionnaire de codes, sans traiter la
+> cible de 45 participants comme un quota obligatoire ?
+>
+> **Réponse de travail (auteur/IA) :** Le chantier T2 commencera par une matrice de
+> branchement des indicateurs A1–A5 sur le guide d'entretien (annexe A), les grilles
+> d'observation et documentaire (annexe D), puis le dictionnaire de codes (annexe F).
+> Le protocole sera daté et versionné avant le terrain ; le pilote de codage testera les
+> règles sur des documents réels. Les 45 participants restent une cible de travail : l'arrêt
+> dépendra de la saturation informationnelle, et chaque écart au protocole sera journalisé.
+>
+> **Loufrani :** C'est la bonne séquence. Je vous demande de ne pas confondre une matrice
+> remplie avec une preuve de saturation : la première prépare l'enquête, la seconde se
+> démontre au fil des données. Le passage au terrain reste donc conditionné par le protocole
+> versionné et le pilote de codage.
+
+**Clôture.** Échange résolu comme cadrage du T2 : les raccordements A1–A5, le protocole
+préalable, le pilote de codage et la saturation informationnelle sont confirmés comme
+prochaines actions. Aucun résultat de terrain, aucune référence nouvelle et aucune donnée
+nouvelle n'ont été ajoutés.
+
+**Décisions.** Le résumé ne remplace pas la validation du fond par l'auteur. Le prochain
+intervenant du temps jury est **Chabanne-Rive** ; le prochain chantier est **T2**.
+
+
+**Addendum — orientation de l'auteur : fond avant forme.** L'auteur précise que le jury doit
+s'exprimer sur le fond scientifique plutôt que sur la forme. Cette orientation est intégrée
+à `docs/JURY_SIMULE.md`, `REPRISE.md` et `README.md` : la question, le concept, le mécanisme,
+le contexte gabonais, les preuves, l'interprétation et les limites sont prioritaires ; la
+forme n'est retenue que si elle conditionne la validité ou la traçabilité scientifique.
+Le test de stabilité a été complété pour maintenir cette règle.
+
+**Échange jury n° 4 — Jérôme Chabanne-Rive (temps jury, dialogue complet).**
+
+> **Rive :** Serge, je te le dis franchement : le jury doit d'abord savoir ce que ta thèse
+> apporte. La question n'est pas de savoir si le dépôt est bien rangé ni si le protocole est
+> joliment présenté. La question est : qu'est-ce que la **gouvernance augmentée** change
+> réellement dans la gouvernance d'un EPES gabonais ? Quel mécanisme relie l'usage réel de
+> l'IA, l'intelligence émotionnelle, le jugement humain et la responsabilité ? Qu'est-ce qui
+> permet de la distinguer d'un simple pilotage instrumenté ou d'un discours sur l'IA ?
+>
+> **Réponse de travail (auteur/IA) :** La fiche T1 propose de traiter la gouvernance
+> augmentée comme une propriété de processus, graduelle et observable dans des scènes de
+> décision, et non comme le nom d'un outil ou d'une intention déclarée. Les attributs A1–A5,
+> les exclusions et les cas-limites donnent une première frontière. Le terrain devra ensuite
+> montrer si cette articulation existe, sous quelles conditions, et avec quelles limites ; si
+> aucun cas ne la documente, la thèse devra le conclure. Le chapitre 2 devra positionner cette
+> proposition dans la littérature réelle sur la gouvernance des établissements.
+>
+> **Rive :** Voilà le bon centre de gravité. Ne confonds jamais définition et démonstration :
+> la fiche rend l'objet discutable, elle ne prouve pas encore sa contribution. Au prochain
+> passage, je regarderai les scènes, les différences avec les alternatives et ce que le
+> contexte gabonais apprend que l'on ne pourrait pas déduire d'un discours général sur l'IA.
+
+**Clôture de l'addendum.** Résolu comme orientation scientifique : les prochains échanges et
+livrables du jury porteront sur le fond de la contribution ; les éléments de forme ne seront
+retenus que s'ils compromettent la validité, la traçabilité ou l'interprétation scientifique.
+Le prochain intervenant est **Marc Valax**.
+
+---
+
 ## Conversation n° 2 — 08/09/2026 — GO de l'auteur : fiche concept GA rédigée, passage jury n° 1 rendu (T1 livré)
 
 **Objet.** L'auteur donne son GO (« on continue, on fusionne sans demander, rien de

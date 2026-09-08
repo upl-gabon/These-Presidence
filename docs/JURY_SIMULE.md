@@ -12,6 +12,16 @@ articulation IA × IE en situation de polycrise* (plan harmonisé + liste des su
 **Rôle du jury simulé :** relire chaque futur livrable de la piste thèse avec l'exigence d'un
 vrai jury de DBA, et bloquer ce qui ne passerait pas une soutenance.
 
+## Périmètre de parole — le fond scientifique avant la forme
+
+Le jury s'exprime **d'abord sur le fond** : question de recherche, concepts, contribution,
+contexte gabonais, articulation IA × IE, preuves, interprétation, conditions d'action et
+limites. Il ne juge pas la mise en page, le style, le site, Git, les tests ou l'archivage.
+Les questions de méthode — protocole, codage, triangulation, saturation — restent dans son
+périmètre uniquement lorsqu'elles conditionnent la validité du savoir produit ; elles ne sont
+pas des remarques de forme. Une présentation claire est utile, mais elle ne peut jamais
+remplacer une contribution démontrée.
+
 ## Les trois membres (composition validée le 08/09/2026)
 
 | # | Membre (identité vérifiée) | Rôle dans le jury simulé | Lentille |
@@ -80,10 +90,69 @@ scène interne, sans implication des personnes nommées)* :
 |---|---|---|---|---|---|
 | 1 | 08/09/2026 | Chabanne-Rive | Fiche concept GA (T1) : définir la « gouvernance augmentée » **dans** l'existant de la gouvernance des établissements d'enseignement (collégiale vs managériale, dirigeant-fondateur, tutelles, accréditations) — sinon « augmentée » restera un slogan plaqué, pas un concept | Consigne intégrée au cahier des charges de T1 (positionnement explicite dans l'existant + glossaire discipliné) ; rédaction en attente du GO auteur | Résolu (consigne intégrée) — T1 en attente GO |
 | 2 | 08/09/2026 | Valax | Fiche concept GA (T1) : deux exigences avant rédaction — (1) **reconnaissabilité managériale** : un dirigeant d'EPES doit pouvoir reconnaître (ou non) la GA dans une scène de décision concrète, lundi matin ; (2) **épaisseur temporelle** : la polycrise est un processus, la gouvernance se joue dans la durée — des marqueurs longitudinaux datés sont exigés ; si aucun cas ne documente la GA, la thèse le conclura, sans repli rhétorique | Marqueurs longitudinaux ajoutés à chaque attribut (fiche § 3) ; unité d'observation = scène décisionnelle ; règle d'inférence « issue possible sans GA documentée » (fiche § 7.4) ; branchement sur le guide (annexe A) et les grilles (annexe D) programmé en T2 | Résolu (intégré fiche v1.1) — passage jury n° 1 rendu |
+| 3 | 08/09/2026 | Loufrani | T2 : avant le terrain, rendre le protocole daté et versionné ; relier A1–A5 au guide d'entretien, aux grilles d'observation/documentaire et au dictionnaire de codes ; traiter les 45 participants comme une cible, jamais comme un quota, avec une règle d'arrêt par saturation informationnelle | Cadrage confirmé : branchement A1–A5 sur les annexes A, D et F ; pilote de codage avant terrain ; saturation informationnelle et écarts de protocole à journaliser | Résolu comme cadrage — T2 à engager |
+| 4 | 08/09/2026 | Chabanne-Rive | Le jury doit porter prioritairement sur le fond : quelle contribution la « gouvernance augmentée » apporte-t-elle réellement aux EPES gabonais, au-delà du vocabulaire IA × IE et des outils de présentation ? | Orientation confirmée : éprouver le concept, son mécanisme, ses frontières, ses scènes de décision et sa contribution empirique ; la forme n'est discutée que si elle affecte la validité scientifique | Résolu comme orientation — prochain livrable à juger sur le fond |
 
-*Prochain intervenant : **Loufrani** (puis Rive, puis Valax).*
+*Prochain intervenant : **Valax** (puis Loufrani, puis Rive).*
 
 ---
+
+## Échange jury n° 3 — Sabrina Loufrani : « Le protocole doit être daté avant le terrain »
+
+**Temps jury de la conversation n° 1 du nouveau cycle.** Le jury reste simulé : cet échange
+est un outil interne de travail et ne constitue pas une déclaration des personnes nommées.
+
+> **Loufrani — parole demandée :** Monsieur MINANG, si vous me permettez d'intervenir,
+> le prochain verrou est méthodologique. Avant tout entretien, le protocole doit être daté
+> et versionné. Comment allez-vous relier concrètement les indicateurs A1–A5 aux questions
+> d'entretien, aux observations, aux documents et au dictionnaire de codes, sans traiter la
+> cible de 45 participants comme un quota obligatoire ?
+>
+> **Réponse de travail (auteur/IA) :** Le chantier T2 commencera par une matrice de
+> branchement des indicateurs A1–A5 sur le guide d'entretien (annexe A), les grilles
+> d'observation et documentaire (annexe D), puis le dictionnaire de codes (annexe F).
+> Le protocole sera daté et versionné avant le terrain ; le pilote de codage testera les
+> règles sur des documents réels. Les 45 participants restent une cible de travail : l'arrêt
+> dépendra de la saturation informationnelle, et chaque écart au protocole sera journalisé.
+>
+> **Loufrani :** C'est la bonne séquence. Je vous demande de ne pas confondre une matrice
+> remplie avec une preuve de saturation : la première prépare l'enquête, la seconde se
+> démontre au fil des données. Le passage au terrain reste donc conditionné par le protocole
+> versionné et le pilote de codage.
+
+**Clôture de l'échange :** résolu comme cadrage du T2 — les raccordements A1–A5, le protocole
+préalable, le pilote de codage et la saturation informationnelle sont confirmés comme
+prochaines actions ; aucun résultat de terrain n'est affirmé.
+
+## Échange jury n° 4 — Jérôme Chabanne-Rive : « Parlons de la contribution, pas de l'habillage »
+
+**Temps jury de la même conversation.** Cette intervention applique l'orientation demandée :
+le jury examine le fond scientifique ; il ne transforme pas les choix techniques ou éditoriaux
+en objets de jugement.
+
+> **Rive :** Serge, je te le dis franchement : le jury doit d'abord savoir ce que ta thèse
+> apporte. La question n'est pas de savoir si le dépôt est bien rangé ni si le protocole est
+> joliment présenté. La question est : qu'est-ce que la **gouvernance augmentée** change
+> réellement dans la gouvernance d'un EPES gabonais ? Quel mécanisme relie l'usage réel de
+> l'IA, l'intelligence émotionnelle, le jugement humain et la responsabilité ? Qu'est-ce qui
+> permet de la distinguer d'un simple pilotage instrumenté ou d'un discours sur l'IA ?
+>
+> **Réponse de travail (auteur/IA) :** La fiche T1 propose de traiter la gouvernance
+> augmentée comme une propriété de processus, graduelle et observable dans des scènes de
+> décision, et non comme le nom d'un outil ou d'une intention déclarée. Les attributs A1–A5,
+> les exclusions et les cas-limites donnent une première frontière. Le terrain devra ensuite
+> montrer si cette articulation existe, sous quelles conditions, et avec quelles limites ; si
+> aucun cas ne la documente, la thèse devra le conclure. Le chapitre 2 devra positionner cette
+> proposition dans la littérature réelle sur la gouvernance des établissements.
+>
+> **Rive :** Voilà le bon centre de gravité. Ne confonds jamais définition et démonstration :
+> la fiche rend l'objet discutable, elle ne prouve pas encore sa contribution. Au prochain
+> passage, je regarderai les scènes, les différences avec les alternatives et ce que le
+> contexte gabonais apprend que l'on ne pourrait pas déduire d'un discours général sur l'IA.
+
+**Clôture de l'échange :** résolu comme orientation scientifique — les prochains échanges
+et livrables du jury porteront sur le fond de la contribution ; les éléments de forme ne seront
+retenus que s'ils compromettent la validité, la traçabilité ou l'interprétation scientifique.
 
 ## Critique n° 1 — Jérôme Chabanne-Rive : « Vous étudiez des écoles — montrez que vous savez ce qu'est une école »
 
