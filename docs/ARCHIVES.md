@@ -221,6 +221,12 @@ pas le PDF reçu sans validation de fond.
 résultat ajouté ; validation du fond par l'auteur encore requise. Le prochain intervenant est
 **Marc Valax**.
 
+**Addendum 5 — livrables visuels.** La trame proposée a été rendue sous deux formats :
+`PROPOSITION_SUPPORT_SOUTENANCE_PRE_TERRAIN.pptx` (12 diapositives, format 16:9) et
+`PROPOSITION_SUPPORT_PRE_TERRAIN_VISUEL.png` (visuel de couverture). Il s'agit d'une mise en
+forme de la proposition précédente, pas d'un nouveau contenu empirique ni d'un verdict
+scientifique. Le PDF initial reste conservé séparément.
+
 
 ---
 

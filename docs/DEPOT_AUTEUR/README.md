@@ -15,8 +15,9 @@ confirme qu'il contient une architecture de recherche et des emplacements de ré
 établir, pas des résultats empiriques déjà acquis.
 
 Une proposition de support plus explicite est également disponible dans
-`PROPOSITION_SUPPORT_SOUTENANCE_PRE_TERRAIN.md`. Elle reste une proposition IA à valider par
-l'auteur et ne remplace pas le support PDF sans décision de l'auteur.
+`PROPOSITION_SUPPORT_SOUTENANCE_PRE_TERRAIN.md`, avec une présentation PowerPoint de 12
+diapositives et un visuel de couverture PNG. Ces fichiers restent une proposition IA à
+valider par l'auteur et ne remplacent pas le support PDF sans décision de l'auteur.
 
 ## Règles de dépôt
 

@@ -44,6 +44,8 @@ test("pages, styles, script et docs existent", () => {
     "docs/DEPOT_AUTEUR/README.md",
     "docs/DEPOT_AUTEUR/Soutenance_DBA_MINANG_version_revisee_Phoenix.pdf",
     "docs/DEPOT_AUTEUR/PROPOSITION_SUPPORT_SOUTENANCE_PRE_TERRAIN.md",
+    "docs/DEPOT_AUTEUR/PROPOSITION_SUPPORT_SOUTENANCE_PRE_TERRAIN.pptx",
+    "docs/DEPOT_AUTEUR/PROPOSITION_SUPPORT_PRE_TERRAIN_VISUEL.png",
     "package.json",
     "robots.txt",
   ]) {

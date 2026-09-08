@@ -7,6 +7,12 @@
 > Il est construit **avant le terrain** : aucune donnée, aucun entretien, aucune observation,
 > aucun résultat empirique et aucune recommandation validée ne sont disponibles à ce stade.
 
+## Fichiers livrés
+
+- [Présentation PowerPoint — 12 diapositives](PROPOSITION_SUPPORT_SOUTENANCE_PRE_TERRAIN.pptx)
+- [Visuel de couverture PNG](PROPOSITION_SUPPORT_PRE_TERRAIN_VISUEL.png)
+- [Trame détaillée en Markdown](PROPOSITION_SUPPORT_SOUTENANCE_PRE_TERRAIN.md)
+
 ## 0. Règle de lecture du support
 
 | Statut | Signification |

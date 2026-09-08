@@ -75,7 +75,9 @@
   `docs/DEPOT_AUTEUR/PROPOSITION_SUPPORT_SOUTENANCE_PRE_TERRAIN.md` propose une trame en 20
   diapositives qui sépare explicitement travail préparatoire, propositions à éprouver,
   matériaux à recueillir et résultats à établir. Elle est marquée `proposition IA — à valider
-  par l'auteur` et ne remplace pas le PDF reçu sans GO sur le fond.
+  par l'auteur` et ne remplace pas le PDF reçu sans GO sur le fond. Une version PowerPoint
+  de 12 diapositives et un visuel de couverture PNG ont été générés à partir de cette trame ;
+  leur fonction est de présenter le même statut pré-terrain, sans ajouter de résultat.
 - **Temps jury actif (D7)** : à CHAQUE conversation, un membre du jury pose une
   question ou donne un conseil — dialogue dynamique (1–3 passes), puis clôture
   (résolu ou explicitement reporté), tout consigné dans le Journal des échanges
@@ -214,9 +216,10 @@
   traité comme un dispositif à éprouver, non comme un bilan empirique.
 
 - **08/09/2026 (proposition de support amélioré)** : une trame pré-terrain en 20 diapositives
-  est proposée dans `docs/DEPOT_AUTEUR/PROPOSITION_SUPPORT_SOUTENANCE_PRE_TERRAIN.md`.
-  Échange n° 7 : Rive recentre la proposition sur le statut des connaissances, la contribution
-  et la démonstration future ; aucun résultat n'est ajouté. Prochain intervenant : **Valax**.
+  est proposée dans `docs/DEPOT_AUTEUR/PROPOSITION_SUPPORT_SOUTENANCE_PRE_TERRAIN.md`, avec
+  une présentation PowerPoint de 12 diapositives et un visuel de couverture. Échange n° 7 :
+  Rive recentre la proposition sur le statut des connaissances, la contribution et la
+  démonstration future ; aucun résultat n'est ajouté. Prochain intervenant : **Valax**.
 
 - **08/09/2026 (GO auteur — T1 livré : fiche concept GA + passage jury n° 1)** : GO de
   l'auteur reçu (« on continue, on fusionne sans demander ; rien de technique à demander
