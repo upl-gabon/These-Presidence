@@ -115,6 +115,7 @@ livrables du jury porteront sur le fond de la contribution ; les éléments de f
 retenus que s'ils compromettent la validité, la traçabilité ou l'interprétation scientifique.
 Le prochain intervenant est **Marc Valax**.
 
+
 ---
 
 ## Conversation n° 2 — 08/09/2026 — GO de l'auteur : fiche concept GA rédigée, passage jury n° 1 rendu (T1 livré)
