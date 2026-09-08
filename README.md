@@ -9,7 +9,8 @@ Travail en cours (septembre 2026).
 > **Zéro dépendance locale** : les seuls liens vers l'UPL sont absolus
 > (`https://upl-gabon.com/`). Ce dépôt vit seul : site + jury + reprise.
 
-**Lire dans l'ordre :** `REPRISE.md` → `README.md` (ce fichier) → `docs/JURY_SIMULE.md`.
+**Lire dans l'ordre :** `REPRISE.md` → `README.md` (ce fichier) → `docs/JURY_SIMULE.md`
+→ `docs/GARDE_FOUS_IA.md` (la mémoire des conversations vit dans `docs/ARCHIVES.md`).
 
 ## Règles non négociables
 
@@ -24,6 +25,7 @@ Travail en cours (septembre 2026).
    Noms pressentis, correspondances, consentements, enregistrements : **jamais dans Git**.
 5. **Rien d'inventé** — tout contenu vient des documents de l'auteur (plan harmonisé,
    liste des supports). Pas d'université d'inscription, directeur, date de soutenance supposés.
+   Garde-fous anti-hallucination IA verrouillés dans `docs/GARDE_FOUS_IA.md` (décision D9).
 
 ## Structure
 
@@ -34,8 +36,11 @@ Travail en cours (septembre 2026).
 ├── documents.html   Documents de travail, confidentialité, demande d'accès
 ├── style.css        Styles propres (aucune dépendance externe)
 ├── app.js           Nav mobile, année, bandeau d'échanges indépendant
-├── tests/site.test.mjs  9 tests de stabilité (Node ≥ 18)
-├── docs/JURY_SIMULE.md  Jury simulé (Chabanne-Rive · Valax · Loufrani) + exigences
+├── tests/site.test.mjs  12 tests de stabilité (Node ≥ 18)
+├── docs/JURY_SIMULE.md  Jury accompagnant (Chabanne-Rive · Valax · Loufrani) :
+│                    question/conseil à chaque conversation + critiques + exigences + journaux
+├── docs/GARDE_FOUS_IA.md  Garde-fous anti-hallucination IA — dix règles + checklist (D9)
+├── docs/ARCHIVES.md     Archives des conversations — mémoire intégrale (systématique)
 ├── REPRISE.md       ★ Reprise instantanée — lire et maintenir en premier
 ├── robots.txt       Zone privée (voir règle 2)
 └── package.json
@@ -44,7 +49,7 @@ Travail en cours (septembre 2026).
 ## Commandes
 
 ```bash
-npm test     # 9 tests — OBLIGATOIRE avant toute livraison
+npm test     # 12 tests — OBLIGATOIRE avant toute livraison
 npm run serve  # aperçu local → http://127.0.0.1:5173/
 ```
 
@@ -62,5 +67,25 @@ Aucun `npm install` nécessaire (aucune dépendance).
 
 Tout livrable passe le **jury simulé** (`docs/JURY_SIMULE.md`) :
 un seul ❌ = reprise exigée. Puis validation finale de l'auteur (Serge Patrick MINANG).
+
+Le jury est un **comité d'accompagnement exigeant**, pas une instance distante : à
+**chaque conversation**, un membre pose une question ou donne un conseil (rotation
+Chabanne-Rive → Valax → Loufrani, avec sa voix propre : « Serge », « Monsieur
+MINANG », la parole demandée) ; la discussion est dynamique puis **toujours
+clôturée** — résolue ou explicitement reportée. Une conversation ne s'arrête
+jamais net.
+
+Chaque conversation est **archivée systématiquement** dans `docs/ARCHIVES.md`,
+sans solliciter l'utilisateur (l'auteur ne connaît pas GitHub : l'IA décide seule
+des questions techniques, l'auteur valide le fond scientifique) — **on ne perd
+rien** des échanges et des décisions.
+
+L'IA travaille sous **garde-fous anti-hallucination** verrouillés
+(`docs/GARDE_FOUS_IA.md`, décision D9) : rien de neuf sans source tracée,
+références bibliographiques jamais générées, données de terrain et citations
+jamais inventées, productions non sourcées marquées `proposition IA — à valider`,
+aucun comblement d'inconnue, relecture du `git diff` ligne à ligne. Un garde-fou
+violé = livraison refusée.
+
 Dépôt **privé exigé** (discrétion, documents internes — voir `REPRISE.md` § 1) ;
 jamais de push direct sur `main` (branche → PR → merge).

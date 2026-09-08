@@ -38,6 +38,8 @@ test("pages, styles, script et docs existent", () => {
     "README.md",
     "REPRISE.md",
     "docs/JURY_SIMULE.md",
+    "docs/GARDE_FOUS_IA.md",
+    "docs/ARCHIVES.md",
     "package.json",
     "robots.txt",
   ]) {
@@ -146,6 +148,51 @@ test("jury + reprise branchés", () => {
     assert.ok(jury.includes(name), `${name} manquant dans le jury`);
   }
   assert.ok(read("REPRISE.md").includes("Protocole obligatoire"), "protocole de reprise manquant");
+});
+
+test("jury accompagnant — question/conseil à chaque conversation", () => {
+  const jury = read("docs/JURY_SIMULE.md");
+  for (const marker of [
+    "comité d'accompagnement",
+    "une question ou un conseil",
+    "Journal des échanges",
+    "Les trois voix",
+    "Serge",
+    "Monsieur MINANG",
+  ]) {
+    assert.ok(jury.includes(marker), `"${marker}" manquant dans JURY_SIMULE.md`);
+  }
+  const reprise = read("REPRISE.md");
+  assert.ok(reprise.includes("une question ou un conseil"), "temps jury absent du protocole");
+  assert.ok(reprise.includes("arrête jamais net"), "clôture de conversation absente du protocole");
+  assert.ok(read("README.md").includes("comité d'accompagnement"), "posture du jury absente du README");
+});
+
+test("archives — mémoire systématique des conversations", () => {
+  const archives = read("docs/ARCHIVES.md");
+  assert.ok(archives.includes("Conversation n° 1"), "conversation n° 1 non archivée");
+  assert.ok(archives.includes("sans solliciter"), "règle d'autonomie absente des archives");
+  assert.ok(archives.includes("Journal des échanges"), "lien jury/archives manquant");
+  const reprise = read("REPRISE.md");
+  assert.ok(reprise.includes("docs/ARCHIVES.md"), "REPRISE ne pointe pas vers les archives");
+  assert.ok(reprise.includes("Autonomie décisionnelle"), "autonomie décisionnelle absente du protocole");
+});
+
+test("garde-fous anti-hallucination IA (D9)", () => {
+  const gf = read("docs/GARDE_FOUS_IA.md");
+  for (const marker of [
+    "anti-hallucination",
+    "jamais générées",
+    "proposition IA",
+    "trou reste un trou",
+    "Checklist",
+  ]) {
+    assert.ok(gf.includes(marker), `"${marker}" manquant dans GARDE_FOUS_IA.md`);
+  }
+  const reprise = read("REPRISE.md");
+  assert.ok(reprise.includes("GARDE_FOUS_IA"), "REPRISE ne référence pas les garde-fous");
+  assert.ok(reprise.includes("D9"), "décision D9 absente de REPRISE");
+  assert.ok(read("README.md").includes("docs/GARDE_FOUS_IA.md"), "README ignore les garde-fous");
 });
 
 console.log("");
