@@ -9,7 +9,7 @@
 
 ## Fichiers livrés
 
-- [Présentation PowerPoint — 12 diapositives](PROPOSITION_SUPPORT_SOUTENANCE_PRE_TERRAIN.pptx)
+- [Présentation PowerPoint — 20 diapositives](PROPOSITION_SUPPORT_SOUTENANCE_PRE_TERRAIN.pptx)
 - [Visuel de couverture PNG](PROPOSITION_SUPPORT_PRE_TERRAIN_VISUEL.png)
 - [Trame détaillée en Markdown](PROPOSITION_SUPPORT_SOUTENANCE_PRE_TERRAIN.md)
 

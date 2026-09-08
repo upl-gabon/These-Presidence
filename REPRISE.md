@@ -217,7 +217,7 @@
 
 - **08/09/2026 (proposition de support amélioré)** : une trame pré-terrain en 20 diapositives
   est proposée dans `docs/DEPOT_AUTEUR/PROPOSITION_SUPPORT_SOUTENANCE_PRE_TERRAIN.md`, avec
-  une présentation PowerPoint de 12 diapositives et un visuel de couverture. Échange n° 7 :
+  une présentation PowerPoint de 20 diapositives et un visuel de couverture. Échange n° 7 :
   Rive recentre la proposition sur le statut des connaissances, la contribution et la
   démonstration future ; aucun résultat n'est ajouté. Prochain intervenant : **Valax**.
 

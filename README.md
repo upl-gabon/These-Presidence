@@ -47,7 +47,7 @@ présenté comme acquis.**
 │                    proposition IA — à valider par l'auteur avant intégration au manuscrit
 ├── docs/DEPOT_AUTEUR/        Zone interne des documents transmis par l'auteur
 │                    PDF reçu + proposition de support pré-terrain à valider
-│                    PPTX 12 diapositives + visuel PNG
+│                    PPTX 20 diapositives + visuel PNG
 ├── REPRISE.md       ★ Reprise instantanée — lire et maintenir en premier
 ├── robots.txt       Zone privée (voir règle 2)
 └── package.json
