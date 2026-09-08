@@ -40,7 +40,7 @@
    `docs/ARCHIVES.md`**. En cas de conflit entre ta mémoire de conversation et
    ces fichiers, **ces fichiers gagnent**.
 
-## 1. ÉTAT — où on s'est arrêté (màj : 08/09/2026, jury accompagnant + garde-fous + archives)
+## 1. ÉTAT — où on s'est arrêté (màj : 08/09/2026, GO auteur — fiche concept GA livrée, passage jury n° 1 rendu)
 
 - **Dépôt GitHub propre et prêt : `upl-gabon/These-Presidence`**, branche `main`
   (site 4 pages FR + CSS/JS autonomes, jury simulé, tests ; extraction du 08/09/2026
@@ -48,37 +48,56 @@
   Nettoyage 08/09/2026 : `these-SPM.zip` (doublon de l'upload) et `CREER-LE-REPO.md`
   (obsolète — son étape 5) retirés ; contenu mis sur `main` via PR (D6 respecté).
   Tests **12/12 verts**.
+- **T1 LIVRÉ (GO auteur, conversation n° 2) : fiche concept « gouvernance augmentée »**
+  (`docs/FICHE_CONCEPT_GA.md`, v1.1) — positionnement dans l'existant (consigne Rive),
+  définition opérationnelle, **5 attributs observables A1–A5** avec indicateurs, sources
+  d'évidence et **marqueurs longitudinaux** (consigne Valax), **3 exclusions E1–E3**,
+  **2 cas-limites tranchés CL1–CL2** (codage par scène), glossaire discipliné, règles
+  d'inférence pour l'enquête (jamais de code « GA » direct — anti-tautologie). Marquée
+  `proposition IA — à valider par l'auteur`. **Passage jury n° 1 rendu : Rive ✅ · Valax ✅ ·
+  Loufrani ✅ — aucun ❌** (réserves mineures enregistrées : littérature réelle au chap. 2 ;
+  branchement guide/grilles en T2 ; pilote de codage avant terrain).
 - **Temps jury actif (D7)** : à CHAQUE conversation, un membre du jury pose une
   question ou donne un conseil — dialogue dynamique (1–3 passes), puis clôture
   (résolu ou explicitement reporté), tout consigné dans le Journal des échanges
-  (`docs/JURY_SIMULE.md`). Échange n° 1 : Rive (08/09/2026, fiche concept GA).
-  **Prochain intervenant : Valax.**
+  (`docs/JURY_SIMULE.md`). Échange n° 1 : Rive (08/09/2026, fiche GA à positionner dans
+  l'existant). Échange n° 2 : Valax (08/09/2026, reconnaissabilité managériale + épaisseur
+  temporelle + issue possible sans GA — intégrés à la fiche v1.1).
+  **Prochain intervenant : Loufrani.**
 - **Garde-fous anti-hallucination actifs (D9)** : `docs/GARDE_FOUS_IA.md` — dix
   garde-fous + checklist de fin de conversation. L'IA rédige et critique, elle
   n'invente jamais ; un seul garde-fou violé = livraison refusée.
 - **Archives actives (D8)** : chaque conversation est archivée systématiquement à
   sa clôture dans `docs/ARCHIVES.md` — par l'IA, **sans solliciter l'utilisateur**
-  (conversation n° 1 : 08/09/2026). On ne perd rien.
+  (conversations n° 1 et n° 2 : 08/09/2026). On ne perd rien.
+- **⚠️ Reste à faire par l'auteur (fond scientifique)** : valider le **fond** de la fiche
+  concept GA v1.1 (`docs/FICHE_CONCEPT_GA.md`) — étape qui ne peut être simulée par le
+  jury. Détail : `REPRISE.md` § 2 (T1) et § 3 (D10).
 - **⚠️ Reste à faire par l'auteur (onglet Settings du dépôt GitHub)** : le dépôt est
   encore **public** — le passer en **privé** (règle de discrétion n° 2 ; impossible au
   jeton IA : droits admin requis). Dans la foulée : désactiver Wiki et Projects,
   ajouter une description. GitHub Pages : non activé (incompatible privé gratuit ;
   rendre le site public un jour = décision auteur, règle 2 du README).
 - **Composition verrouillée** : jury simulé = Chabanne-Rive (Lyon) · Valax (Nice) ·
-  Loufrani (Nice) — passage n° 0 journalisé (3 × ⚠️).
-- **Question en suspens** : GO de l'auteur pour lancer le **passage jury n° 1 —
-  fiche concept « gouvernance augmentée » (§ 3.2–3.3)** : définition 1 §, 4–6 attributs
-  observables, 3 exclusions, 2 cas-limites tranchés, glossaire discipliné — et, depuis
-  l'échange n° 1 (Rive), **positionnement explicite dans l'existant de la gouvernance
-  des établissements d'enseignement** (collégiale vs managériale, dirigeant-fondateur,
-  tutelles, accréditations).
+  Loufrani (Nice) — passage n° 0 journalisé (3 × ⚠️) ; passage n° 1 rendu (3 × ✅,
+  fiche concept GA).
+- **📌 Annonce de l'auteur (08/09/2026) — ouverture d'un nouveau cycle dans une nouvelle
+  arena** : « quand tout est ok, on commence une nouvelle conversation numéro 1 ; le jury
+  prend connaissance de la thèse dans la prochaine arena ; l'auteur donnera la nouvelle
+  conversation (bonjour…, on a pris connaissance…), puis on commencera vraiment. »
+  Conduite à tenir à l'ouverture de cette conversation : accueillir la prise de
+  connaissance (lecture ordonnée REPRISE → README → JURY_SIMULE → GARDE_FOUS_IA →
+  ARCHIVES), intégrer tout document de la thèse que l'auteur apporterait (jamais hors
+  dépôt, D1 ; code EPES si terrain, D2), puis enchaîner sur les chantiers (§ 2 : T2
+  d'abord). La numérotation des archives repart de « Conversation n° 1 » avec la mention
+  du nouveau cycle (les entrées n° 1–2 du 08/09/2026 restent opposables telles quelles).
 
 ## 2. Chantiers ouverts (jury — ordre = bloquants d'abord)
 
 | # | Chantier | Statut | Verdicts R/V/L | Prochaine action |
 |---|---|---|---|---|
-| T1 | Fiche concept GA (§ 3.2–3.3) | ⏳ en attente GO | — | Rédiger (avec consigne Rive, échange n° 1 : positionner GA dans l'existant) + passage jury n° 1 |
-| T2 | Protocole de cas (annexes C–D) + règle de saturation | 🔴 non démarré | Loufrani ❌ potentiel | Cadrer après T1 |
+| T1 | Fiche concept GA (§ 3.2–3.3) | ✅ livré (v1.1, 08/09/2026) | Passage n° 1 : Rive ✅ · Valax ✅ · Loufrani ✅ (aucun ❌) | Validation du fond par l'auteur ; brancher A1–A5 sur guide (A) et grilles (D) en T2 |
+| T2 | Protocole de cas (annexes C–D) + règle de saturation | 🔴 non démarré (suivant) | Loufrani ❌ potentiel | Cadrer : brancher les indicateurs A1–A5 de la fiche GA sur le guide (annexe A), grilles (annexe D), codes (annexe F) ; pilote de codage ; conventions datées/versionnées |
 | T3 | Typologie des usages IA (tab. 5.3) + grille d'observation | 🔴 non démarré | Exigence permanente n° 3 | Cadrer après T1 |
 | T4 | 4e regard expert IA (chap. 5) | 📌 rappel | — | Identifier un nom le moment venu |
 
@@ -112,6 +131,12 @@
   marquées `proposition IA — à valider` ; aucun comblement d'inconnue ; valeurs
   canoniques intouchables sans GO ; relecture du `git diff` ligne à ligne avant
   livraison. Un seul garde-fou violé = livraison refusée.
+- D10. **Fiches concept = documents de travail internes** (décision du 08/09/2026,
+  conversation n° 2) : les fiches concept (dont `docs/FICHE_CONCEPT_GA.md`) sont rangées
+  dans `docs/`, hors pages publiques du site ; elles sont marquées
+  `proposition IA — à valider par l'auteur` ; elles ne rejoignent le manuscrit
+  (§ 3.2–3.3) qu'après validation du fond par l'auteur — le jury simulé ne valide que
+  leur fonction d'outillage (passage jury), jamais le fond à la place de l'auteur.
 
 ## 4. Règles express (rappel sec)
 
@@ -128,6 +153,21 @@
 
 ## 5. Journal (bref — derniers en haut)
 
+- **08/09/2026 (GO auteur — T1 livré : fiche concept GA + passage jury n° 1)** : GO de
+  l'auteur reçu (« on continue, on fusionne sans demander ; rien de technique à demander
+  à l'utilisateur — la conversation et la reprise comptent »). Rédaction de
+  `docs/FICHE_CONCEPT_GA.md` (v1.1) : positionnement dans l'existant (consigne Rive),
+  définition opérationnelle, 5 attributs observables A1–A5 (indicateurs, sources
+  d'évidence E/O/D, marqueurs longitudinaux — consigne Valax, échange n° 2), 3 exclusions
+  E1–E3, 2 cas-limites tranchés CL1–CL2 (codage par scène), glossaire discipliné, règles
+  d'inférence (jamais de code « GA » direct ; issue possible sans GA). Marquée
+  `proposition IA — à valider par l'auteur` (D10) ; zéro référence générée. **Passage
+  jury n° 1 : Rive ✅ · Valax ✅ · Loufrani ✅ — aucun ❌** ; réserves mineures
+  enregistrées (littérature réelle chap. 2 ; branchement annexes A/D en T2 ; pilote de
+  codage avant terrain). Échange jury n° 2 (Valax) consigné au Journal des échanges.
+  Archives : conversation n° 2 (`docs/ARCHIVES.md`). 12/12 verts. Prochain chantier :
+  **T2 (protocole de cas, annexes C–D + saturation)** ; prochain intervenant : **Loufrani** ;
+  reste à l'auteur : validation du fond de la fiche (D10) + dépôt en privé (Settings).
 - **08/09/2026 (jury accompagnant + archives + garde-fous, D7–D9)** : jury
   repositionné en **comité d'accompagnement exigeant** — une question ou un conseil
   d'un membre à CHAQUE conversation (rotation Rive → Valax → Loufrani), dialogue

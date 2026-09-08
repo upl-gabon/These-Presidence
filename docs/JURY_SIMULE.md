@@ -79,8 +79,9 @@ scène interne, sans implication des personnes nommées)* :
 | N° | Date | Membre | Question / conseil (résumé) | Suites | Statut |
 |---|---|---|---|---|---|
 | 1 | 08/09/2026 | Chabanne-Rive | Fiche concept GA (T1) : définir la « gouvernance augmentée » **dans** l'existant de la gouvernance des établissements d'enseignement (collégiale vs managériale, dirigeant-fondateur, tutelles, accréditations) — sinon « augmentée » restera un slogan plaqué, pas un concept | Consigne intégrée au cahier des charges de T1 (positionnement explicite dans l'existant + glossaire discipliné) ; rédaction en attente du GO auteur | Résolu (consigne intégrée) — T1 en attente GO |
+| 2 | 08/09/2026 | Valax | Fiche concept GA (T1) : deux exigences avant rédaction — (1) **reconnaissabilité managériale** : un dirigeant d'EPES doit pouvoir reconnaître (ou non) la GA dans une scène de décision concrète, lundi matin ; (2) **épaisseur temporelle** : la polycrise est un processus, la gouvernance se joue dans la durée — des marqueurs longitudinaux datés sont exigés ; si aucun cas ne documente la GA, la thèse le conclura, sans repli rhétorique | Marqueurs longitudinaux ajoutés à chaque attribut (fiche § 3) ; unité d'observation = scène décisionnelle ; règle d'inférence « issue possible sans GA documentée » (fiche § 7.4) ; branchement sur le guide (annexe A) et les grilles (annexe D) programmé en T2 | Résolu (intégré fiche v1.1) — passage jury n° 1 rendu |
 
-*Prochain intervenant : **Valax** (puis Loufrani, puis Rive).*
+*Prochain intervenant : **Loufrani** (puis Rive, puis Valax).*
 
 ---
 
@@ -228,6 +229,47 @@ orienté. Mais l'ambition qualitative se paie en discipline d'exécution. C'est 
 | Date | Livrable relu | Rive | Valax | Loufrani | Décision |
 |---|---|---|---|---|---|
 | 08/09/2026 | Plan harmonisé + liste des supports (v. sept. 2026) — jury recomposé (Rive/Valax/Loufrani) | ⚠️ réserve (gouvernance des écoles : existant ? + scènes observées) | ⚠️ surveillance (actionnabilité + longitudinal à démontrer) | ⚠️ condition (protocole C–D + saturation + compétences 3 niveaux) | Base validée ; 3 chantiers prioritaires ouverts (voir exigences conjointes) |
+| 08/09/2026 | **Passage n° 1 — Fiche concept GA v1.1** (T1, § 3.2–3.3) : définition, 5 attributs observables, 3 exclusions, 2 cas-limites tranchés, glossaire, règles d'inférence | ✅ solide — réserve mineure (littérature réelle à mobiliser au chap. 2, § 2.2 ; trous assumés) | ✅ solide — réserve mineure (indicateurs à brancher sur guide A et grilles D en T2) | ✅ solide — réserve mineure (pilote de codage sur documents réels avant le terrain) | Validée pour fonction d'outillage (aucun ❌) ; en attente de la validation du fond par l'auteur |
+
+## Passage jury n° 1 — Fiche concept GA (v1.1, 08/09/2026)
+
+**Livrable relu :** `docs/FICHE_CONCEPT_GA.md` — fiche concept « gouvernance augmentée »
+(T1) : positionnement dans l'existant, définition opérationnelle, cinq attributs
+observables (A1–A5), trois exclusions (E1–E3), deux cas-limites tranchés (CL1–CL2),
+glossaire discipliné, règles d'inférence pour l'enquête. `Proposition IA — à valider par
+l'auteur`, aucun fait ni référence ajouté (garde-fous D4/D9 respectés).
+
+**Rive — ✅ solide.** La consigne de l'échange n° 1 est tenue : la GA est positionnée dans
+les registres existants de la gouvernance des EPES (collégial vs managérial,
+dirigeant-fondateur, tutelles, modèle économique, § 1 de la fiche) et les contre-exemples
+demandés par l'annexe « oxymore ou slogan » existent (E1–E3). L'unité d'observation par
+**scène** et l'exigence d'IE dans des **actes de management observables** (A3) répondent
+au point 3 de ma critique. *Réserve mineure :* le positionnement reste en idéaux-types
+génériques ; la littérature réelle doit venir au chap. 2 (§ 2.2) — la fiche marque
+honnêtement ses trous (`[référence à vérifier par l'auteur]`), ils ne doivent pas rester
+des trous définitifs.
+
+**Valax — ✅ solide.** La fiche dit à un dirigeant quoi regarder lundi matin (A1–A5 :
+usages réels, dernier mot humain, scènes à dimension émotionnelle, orchestration,
+garde-fous) et interdit la fausse sortie : si aucun cas ne documente la GA, la thèse le
+conclura (§ 7.4 de la fiche, cohérent avec le plan § 6.4). L'ancrage longitudinal de
+chaque attribut (marqueurs datés, trajectoire 2022–2026) tient l'exigence de film et non
+de photo. *Réserve mineure :* la fiche n'est pas un instrument autonome — le branchement
+des indicateurs sur le guide d'entretien (annexe A) et les grilles (annexe D) est le
+premier objet de T2.
+
+**Loufrani — ✅ solide.** Les règles d'inclusion/exclusion sont codables : A1–A5, E1–E3,
+CL1-b/CL2-b, **codage par scène et jamais de code « GA » direct** — c'est exactement ce
+qui tue la tautologie et rend P4 testable (annexe § 3). A5 (garde-fous) comme condition
+d'inclusion, pas bonus : l'éthique n'est pas décorative. L'apprentissage à trois niveaux
+est présent dans A4. *Réserve mineure :* un **pilote de codage** sur documents réels avant
+le premier entretien est indispensable pour vérifier que les règles classent sans forcer —
+la fiche le prévoit déjà (§ 7.6) ; il sera acté dans le protocole (T2).
+
+**Décision du passage n° 1 :** aucun ❌ — la fiche v1.1 est **validée pour sa fonction
+d'outillage** (concept opérationnel, codage, testabilité de P4). Réserves mineures
+enregistrées (chap. 2, branchement T2, pilote de codage). Reste la **validation du fond
+scientifique par l'auteur**, étape qui ne peut être simulée.
 
 ---
 
