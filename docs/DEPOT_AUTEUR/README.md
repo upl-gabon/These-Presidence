@@ -9,10 +9,10 @@ Le document annoncé est :
 
 - `Soutenance_DBA_MINANG_version_revisee_Phoenix.pdf`
 
-Le fichier n'est pas encore présent dans cette zone : le lien Google Drive transmis pointe
-vers un dossier et son téléchargement est bloqué dans l'environnement de travail. Aucun
-résumé, résultat ou avis scientifique n'est donc produit à partir de ce document tant que son
-contenu n'est pas effectivement lisible.
+Le fichier est désormais présent dans cette zone. Il s'agit d'un support de soutenance
+préparatoire révisé, explicitement présenté comme « sous réserve du terrain ». Sa lecture
+confirme qu'il contient une architecture de recherche et des emplacements de résultats à
+établir, pas des résultats empiriques déjà acquis.
 
 ## Règles de dépôt
 

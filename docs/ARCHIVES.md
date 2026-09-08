@@ -147,6 +147,48 @@ confondus.
 venir et résultats empiriques est verrouillée. Le prochain intervenant est **Sabrina Loufrani**.
 
 
+**Addendum 3 — support de soutenance préparatoire reçu.** Le fichier
+`docs/DEPOT_AUTEUR/Soutenance_DBA_MINANG_version_revisee_Phoenix.pdf` a été téléversé dans la
+zone prévue. Il s'agit d'une version préparatoire révisée, explicitement « sous réserve du
+terrain », comprenant 23 diapositives d'exposé et les annexes scientifiques A1–A6. Le support
+couvre le problème managérial, la question centrale, les ancrages théoriques, les critères
+d'observation, le modèle exploratoire, le protocole qualitatif prévu, P1–P7, la chaîne de
+preuves, les résultats à établir, la discussion, les limites et les perspectives.
+
+**Lecture de fond.** Le support respecte la distinction méthodologie / résultats : les
+emplacements `[Résultat]`, `[À établir]`, les matrices à compléter et la mention « sous réserve
+du terrain » ne présentent pas de données fabriquées. Il est recevable comme architecture de
+soutenance préparatoire. Les verrous restent : protocole T2 daté et versionné, branchement
+A1–A5 sur guide/grilles/codebook, pilote, saturation, vérification des références et future
+démonstration de P4 par des matériaux authentiques.
+
+**Échange jury n° 6 — Sabrina Loufrani (temps jury, dialogue complet).**
+
+> **Loufrani — parole demandée :** Monsieur MINANG, votre support a un mérite important :
+> il ne maquille pas l'inconnu. Les mentions `[Résultat]`, `[À établir]`, les matrices à
+> renseigner et la formule « sous réserve du terrain » signalent que les diapositives 11 à
+> 22 décrivent des emplacements de résultats, non des conclusions. Mais un emplacement vide
+> ne constitue pas encore une méthode suffisante. Avant le terrain, il faut verrouiller le
+> guide, les grilles, le dictionnaire de codes, le pilote et la règle de saturation.
+>
+> **Réponse de travail (auteur/IA) :** Le PDF est bien un support de soutenance préparatoire.
+> Il expose le problème managérial, la question centrale, les ancrages théoriques, les
+> critères d'observation, le modèle exploratoire, le protocole qualitatif prévu, la chaîne de
+> preuves et les conditions de discussion. P4 reste une proposition à éprouver : l'articulation
+> IA–IE sera recherchée dans des scènes de décision, pas présupposée. Le chantier T2 doit
+> maintenant transformer cette architecture en protocole daté et testable.
+>
+> **Loufrani :** C'est recevable comme architecture de recherche, pas comme soutenance de
+> résultats. Je maintiens trois exigences de fond : chaque futur résultat devra renvoyer à un
+> matériau sourcé ; « non documenté » ne devra pas être confondu avec « absent » ; et la
+> comparaison inter-cas devra conserver les différences au lieu de les lisser. Le support est
+> prêt pour cette étape préparatoire, mais pas pour conclure à la place du terrain.
+
+**Clôture de l'addendum 3.** Résolu comme lecture préparatoire : le document est accepté comme
+architecture à éprouver ; aucun résultat empirique n'est validé. Le prochain intervenant est
+**Jérôme Chabanne-Rive**.
+
+
 ---
 
 ## Conversation n° 2 — 08/09/2026 — GO de l'auteur : fiche concept GA rédigée, passage jury n° 1 rendu (T1 livré)

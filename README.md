@@ -45,6 +45,7 @@ présenté comme acquis.**
 ├── docs/ARCHIVES.md     Archives des conversations — mémoire intégrale (systématique)
 ├── docs/FICHE_CONCEPT_GA.md  Fiche concept « gouvernance augmentée » (T1) —
 │                    proposition IA — à valider par l'auteur avant intégration au manuscrit
+├── docs/DEPOT_AUTEUR/        Zone interne des documents transmis par l'auteur
 ├── REPRISE.md       ★ Reprise instantanée — lire et maintenir en premier
 ├── robots.txt       Zone privée (voir règle 2)
 └── package.json

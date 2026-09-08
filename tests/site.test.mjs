@@ -41,6 +41,8 @@ test("pages, styles, script et docs existent", () => {
     "docs/GARDE_FOUS_IA.md",
     "docs/ARCHIVES.md",
     "docs/FICHE_CONCEPT_GA.md",
+    "docs/DEPOT_AUTEUR/README.md",
+    "docs/DEPOT_AUTEUR/Soutenance_DBA_MINANG_version_revisee_Phoenix.pdf",
     "package.json",
     "robots.txt",
   ]) {

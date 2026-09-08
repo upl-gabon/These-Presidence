@@ -62,6 +62,15 @@
 - **État empirique (clarification de l'auteur, 08/09/2026)** : le terrain n'a pas encore été
   réalisé. Le travail actuel porte sur la conception de la méthodologie et de ses outils ;
   aucun entretien, observation, donnée ou résultat empirique n'est présenté comme acquis.
+- **Support de soutenance préparatoire reçu (08/09/2026)** :
+  `docs/DEPOT_AUTEUR/Soutenance_DBA_MINANG_version_revisee_Phoenix.pdf` est maintenant
+  présent dans le dépôt. Le document rassemble 23 diapositives d'exposé et des annexes
+  scientifiques A1–A6 : problème managérial, question centrale, ancrages théoriques,
+  critères d'observation, modèle exploratoire, protocole qualitatif, P1–P7, chaîne de
+  preuves, résultats et recommandations à établir. Les marqueurs `[Résultat]`, `[À établir]`
+  et « sous réserve du terrain » sont correctement maintenus ; aucune donnée empirique n'est
+  attribuée au document. Première lecture jury : base préparatoire solide, réserves sur le
+  verrouillage du protocole T2, la littérature à vérifier et la future démonstration de P4.
 - **Temps jury actif (D7)** : à CHAQUE conversation, un membre du jury pose une
   question ou donne un conseil — dialogue dynamique (1–3 passes), puis clôture
   (résolu ou explicitement reporté), tout consigné dans le Journal des échanges
@@ -70,9 +79,9 @@
   temporelle + issue possible sans GA — intégrés à la fiche v1.1). Échange n° 3 : Loufrani
   (08/09/2026, protocole T2 daté/versionné, branchement A1–A5 et saturation informationnelle).
   Échange n° 4 : Rive (08/09/2026, contribution scientifique de la gouvernance augmentée
-  aux EPES gabonais, au-delà de la forme). Échange n° 5 : Valax (08/09/2026, clarification
-  méthodologie conçue / terrain non réalisé / résultats à venir). **Prochain intervenant :
-  Loufrani.**
+  aux EPES gabonais, au-delà de la forme). Échange n° 5 : Valax (08/09/2026, clarification méthodologie conçue / terrain non réalisé /
+  résultats à venir). Échange n° 6 : Loufrani (08/09/2026, lecture du support préparatoire,
+  placeholders de résultats et verrouillage T2). **Prochain intervenant : Rive.**
 - **Garde-fous anti-hallucination actifs (D9)** : `docs/GARDE_FOUS_IA.md` — dix
   garde-fous + checklist de fin de conversation. L'IA rédige et critique, elle
   n'invente jamais ; un seul garde-fou violé = livraison refusée.
@@ -190,7 +199,14 @@
 - **08/09/2026 (clarification empirique de l'auteur)** : le terrain n'est pas réalisé ; le
   travail actuel est la conception de la méthodologie. Échange n° 5 : Valax verrouille la
   distinction entre dispositif prévu, données à recueillir et résultats à établir. Aucun
-  résultat empirique n'est affirmé. Prochain intervenant : **Loufrani**.
+  résultat empirique n'est affirmé.
+
+- **08/09/2026 (support de soutenance préparatoire révisé reçu)** : le PDF est déposé dans
+  `docs/DEPOT_AUTEUR/`. Il présente une architecture préparatoire de soutenance, 23 slides
+  d'exposé et les annexes A1–A6 ; les résultats sont explicitement réservés au terrain.
+  Échange n° 6 : Loufrani relit le fond méthodologique et confirme que le document doit être
+  traité comme un dispositif à éprouver, non comme un bilan empirique. Prochain intervenant :
+  **Rive**.
 
 - **08/09/2026 (GO auteur — T1 livré : fiche concept GA + passage jury n° 1)** : GO de
   l'auteur reçu (« on continue, on fusionne sans demander ; rien de technique à demander

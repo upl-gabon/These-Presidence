@@ -99,8 +99,9 @@ scène interne, sans implication des personnes nommées)* :
 | 3 | 08/09/2026 | Loufrani | T2 : avant le terrain, rendre le protocole daté et versionné ; relier A1–A5 au guide d'entretien, aux grilles d'observation/documentaire et au dictionnaire de codes ; traiter les 45 participants comme une cible, jamais comme un quota, avec une règle d'arrêt par saturation informationnelle | Cadrage confirmé : branchement A1–A5 sur les annexes A, D et F ; pilote de codage avant terrain ; saturation informationnelle et écarts de protocole à journaliser | Résolu comme cadrage — T2 à engager |
 | 4 | 08/09/2026 | Chabanne-Rive | Le jury doit porter prioritairement sur le fond : quelle contribution la « gouvernance augmentée » apporte-t-elle réellement aux EPES gabonais, au-delà du vocabulaire IA × IE et des outils de présentation ? | Orientation confirmée : éprouver le concept, son mécanisme, ses frontières, ses scènes de décision et sa contribution empirique ; la forme n'est discutée que si elle affecte la validité scientifique | Résolu comme orientation — prochain livrable à juger sur le fond |
 | 5 | 08/09/2026 | Valax | Clarification d'état : le terrain n'est pas réalisé ; seule la méthodologie est conçue. Le jury doit distinguer dispositif prévu, données effectivement recueillies et résultats qui restent à établir | Aucun résultat empirique affirmé ; les prochains livrables seront jugés comme conception méthodologique et hypothèses de travail, non comme résultats de terrain | Résolu — distinction méthodologie / résultats verrouillée |
+| 6 | 08/09/2026 | Loufrani | Support de soutenance préparatoire révisé : les résultats sont laissés à établir, mais le protocole T2 doit encore être verrouillé avant le terrain (guide, grilles, codebook, pilote, saturation) ; P4 doit rester une proposition à éprouver | Support lu comme architecture de recherche, non comme bilan empirique ; marqueurs `[Résultat]`, `[À établir]` et « sous réserve du terrain » conservés ; T2 reste le verrou scientifique | Résolu comme lecture préparatoire — aucun ❌ empirique |
 
-*Prochain intervenant : **Loufrani** (puis Rive, puis Valax).*
+*Prochain intervenant : **Rive** (puis Valax, puis Loufrani).*
 
 ---
 
@@ -186,6 +187,35 @@ parler comme si l'enquête avait déjà produit des données.
 
 **Clôture de l'échange :** résolu — la distinction entre méthodologie conçue, terrain à venir
 et résultats empiriques est verrouillée. Aucun résultat de terrain n'est affirmé.
+
+## Échange jury n° 6 — Sabrina Loufrani : « Un support préparatoire n'est pas un résultat »
+
+**Lecture du support `docs/DEPOT_AUTEUR/Soutenance_DBA_MINANG_version_revisee_Phoenix.pdf`.**
+Cette lecture porte sur le fond méthodologique et scientifique, pas sur la mise en page.
+
+> **Loufrani — parole demandée :** Monsieur MINANG, votre support a un mérite important :
+> il ne maquille pas l'inconnu. Les mentions `[Résultat]`, `[À établir]`, les matrices à
+> renseigner et la formule « sous réserve du terrain » signalent que les diapositives 11 à
+> 22 décrivent des emplacements de résultats, non des conclusions. Mais un emplacement vide
+> ne constitue pas encore une méthode suffisante. Avant le terrain, il faut verrouiller le
+> guide, les grilles, le dictionnaire de codes, le pilote et la règle de saturation.
+>
+> **Réponse de travail (auteur/IA) :** Le PDF est bien un support de soutenance préparatoire.
+> Il expose le problème managérial, la question centrale, les ancrages théoriques, les
+> critères d'observation, le modèle exploratoire, le protocole qualitatif prévu, la chaîne de
+> preuves et les conditions de discussion. P4 reste une proposition à éprouver : l'articulation
+> IA–IE sera recherchée dans des scènes de décision, pas présupposée. Le chantier T2 doit
+> maintenant transformer cette architecture en protocole daté et testable.
+>
+> **Loufrani :** C'est recevable comme architecture de recherche, pas comme soutenance de
+> résultats. Je maintiens trois exigences de fond : chaque futur résultat devra renvoyer à un
+> matériau sourcé ; « non documenté » ne devra pas être confondu avec « absent » ; et la
+> comparaison inter-cas devra conserver les différences au lieu de les lisser. Le support est
+> prêt pour cette étape préparatoire, mais pas pour conclure à la place du terrain.
+
+**Clôture de l'échange :** résolu comme lecture préparatoire — le document est accepté comme
+architecture à éprouver ; aucun résultat empirique n'est validé, et T2 reste le prochain
+verrou scientifique.
 
 ## Critique n° 1 — Jérôme Chabanne-Rive : « Vous étudiez des écoles — montrez que vous savez ce qu'est une école »
 
@@ -332,6 +362,7 @@ orienté. Mais l'ambition qualitative se paie en discipline d'exécution. C'est 
 |---|---|---|---|---|---|
 | 08/09/2026 | Plan harmonisé + liste des supports (v. sept. 2026) — jury recomposé (Rive/Valax/Loufrani) | ⚠️ réserve (gouvernance des écoles : existant ? + scènes observées) | ⚠️ surveillance (actionnabilité + longitudinal à démontrer) | ⚠️ condition (protocole C–D + saturation + compétences 3 niveaux) | Base validée ; 3 chantiers prioritaires ouverts (voir exigences conjointes) |
 | 08/09/2026 | **Passage n° 1 — Fiche concept GA v1.1** (T1, § 3.2–3.3) : définition, 5 attributs observables, 3 exclusions, 2 cas-limites tranchés, glossaire, règles d'inférence | ✅ solide — réserve mineure (littérature réelle à mobiliser au chap. 2, § 2.2 ; trous assumés) | ✅ solide — réserve mineure (indicateurs à brancher sur guide A et grilles D en T2) | ✅ solide — réserve mineure (pilote de codage sur documents réels avant le terrain) | Validée pour fonction d'outillage (aucun ❌) ; en attente de la validation du fond par l'auteur |
+| 08/09/2026 | **Passage préparatoire — Support de soutenance révisé** (23 slides + annexes A1–A6, avant terrain) | ⚠️ réserve — contribution et contexte gabonais à éprouver par les cas | ⚠️ surveillance — architecture actionnable, mais aucun résultat ni recommandation validés | ⚠️ réserve — protocole T2, pilote et saturation à verrouiller avant collecte | Base préparatoire recevable ; aucun ❌ ; ne vaut pas passage de résultats |
 
 ## Passage jury n° 1 — Fiche concept GA (v1.1, 08/09/2026)
 
