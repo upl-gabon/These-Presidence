@@ -16,6 +16,59 @@ journal de `REPRISE.md` § 5 et dans l'historique Git.
 
 ---
 
+## Conversation n° 1 (nouveau cycle) — 20/09/2026 — Support de soutenance 15 slides proposé (proposition IA — à valider)
+
+**Objet.** L'auteur ouvre le nouveau cycle annoncé le 08/09/2026 et fournit,
+dans la conversation, le document de thèse à jour : dédicace, remerciements,
+résumé/abstract, plan général, listes des tableaux et figures, chapitres 1 à 6
+(dont chapitres 5–6 et conclusion en **version préparatoire** — aucun résultat
+acquis), références, guide unique d'entretien et de codage. Demande : « me
+proposer un PowerPoint de 15 slides » incluant dédicace et remerciements.
+
+**Réalisé.**
+- `presentation/Soutenance_DBA_MINANG_15_slides.pptx` — 15 slides 16:9,
+  charte encre/bronze/papier du dépôt (style.css ; ni bleu ni or UPL).
+- `presentation/generer_soutenance_pptx.py` — script de régénération
+  (python-pptx, hors Git des binaires régénérables mais versionné pour
+  traçabilité).
+- `presentation/LISEZMOI.md` — traçabilité slide → source (chapitres/sections
+  du document fourni), statut « proposition IA — à valider par l'auteur »,
+  points à trancher avant usage.
+- Tests : 12/12 verts. Contrôle de débordement typographique effectué ;
+  contrôle anti-fabrication effectué (aucun nom pressenti — ITA, BGFI, SUP de
+  COM, Saint-Exupéry absents ; codes EPES-A à EPES-E ; aucune date inventée ;
+  seule date présente : décret n° 0446/PR/MESRS du 5 septembre 2016, sourcé
+  du chapitre 1).
+
+**Garde-fous appliqués (D9).** Le document de thèse intégral fourni dans la
+conversation n'est **pas versé dans Git** (il contient la présélection
+nominative des cinq établissements — D2) ; seul le support en est dérivé,
+strictement sourcé. Pas de date de soutenance, pas d'université
+d'inscription, aucun résultat annoncé (slides 11–14 portent des statuts
+explicites : préparatoire, indicatif, attendu). Mention slide 1 du directeur
+de thèse reprise des remerciements fournis par l'auteur (à confirmer).
+
+**Échange jury n° 3 (temps jury — D7).** Loufrani : « Si vous me permettez
+d'intervenir, Monsieur MINANG… votre slide 11 annonce "aucun résultat acquis"
+— la même cohérence de statut doit être visible sur les slides 12 à 14, sinon
+un jury croira à des acquis. » Réponse : mentions de statut ajoutées (slide 11
+« préparatoire » ; slide 13 « options indicatives — à rattacher à des constats
+réels » ; slide 14 « contributions attendues » ; métadonnées + LISEZMOI
+marqués « proposition IA »). **Clôture : résolu** — rappel consigné :
+actualiser les slides 11–14 après la collecte.
+
+**Décisions.** (i) Le support est une **proposition IA**, à valider par
+l'auteur avant tout usage ; (ii) aucun contenu du support hors sources tracées
+(document fourni + dépôt) ; (iii) mise à jour du support après le terrain
+(slides 11–14, retrait des mentions « préparatoire »).
+
+**Prochaine étape.** Validation du fond par l'auteur (slides 1–3 en priorité :
+directeur de thèse sur la page de garde, synthèses dédicace/remerciements),
+puis reprise de **T2** (protocole de cas, annexe C–D). Prochain intervenant du
+temps jury : **Chabanne-Rive**.
+
+---
+
 ## Conversation n° 2 — 08/09/2026 — GO de l'auteur : fiche concept GA rédigée, passage jury n° 1 rendu (T1 livré)
 
 **Objet.** L'auteur donne son GO (« on continue, on fusionne sans demander, rien de

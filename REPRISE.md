@@ -40,8 +40,19 @@
    `docs/ARCHIVES.md`**. En cas de conflit entre ta mémoire de conversation et
    ces fichiers, **ces fichiers gagnent**.
 
-## 1. ÉTAT — où on s'est arrêté (màj : 08/09/2026, GO auteur — fiche concept GA livrée, passage jury n° 1 rendu)
+## 1. ÉTAT — où on s'est arrêté (màj : 20/09/2026, nouveau cycle ouvert — support de soutenance 15 slides proposé, proposition IA à valider)
 
+- **NOUVEAU CYCLE OUVERT (20/09/2026, conversation n° 1 du cycle — voir
+  `docs/ARCHIVES.md`)** : l'auteur a fourni dans la conversation le document
+  de thèse à jour (dédicace, remerciements, résumé, plan général, chapitres 1–6
+  préparatoires, conclusion, guide unique). Livrable proposé :
+  `presentation/Soutenance_DBA_MINANG_15_slides.pptx` (15 slides, charte
+  encre/bronze/papier, dédicace + remerciements inclus, **aucun résultat
+  annoncé** — chapitres 5–6 préparatoires) + script de régénération
+  `presentation/generer_soutenance_pptx.py` + traçabilité
+  `presentation/LISEZMOI.md`. **Le document de thèse intégral n'est PAS versé
+  dans Git** (présélection nominative — D2). Statut : **proposition IA —
+  à valider par l'auteur** (slides 1–3 en priorité).
 - **Dépôt GitHub propre et prêt : `upl-gabon/These-Presidence`**, branche `main`
   (site 4 pages FR + CSS/JS autonomes, jury simulé, tests ; extraction du 08/09/2026
   depuis `upl-gabon/UPL-Gabon`, liens UPL absolus `https://upl-gabon.com/`).
