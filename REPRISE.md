@@ -53,6 +53,17 @@
   `presentation/LISEZMOI.md`. **Le document de thèse intégral n'est PAS versé
   dans Git** (présélection nominative — D2). Statut : **proposition IA —
   à valider par l'auteur** (slides 1–3 en priorité).
+- **CANEVAS VALAX (20/09/2026, même conversation)** : l'auteur transmet les
+  **consignes du Professeur Valax (Directeur du DBA)** pour la soutenance —
+  10 rubriques : titre · intérêt actuel · revue (2 slides) · cadre théorique ·
+  design · résultats · analyse · implications managériales · limites et
+  perspectives · conclusion. Livrables : `presentation/CANEVAS_VALAX.md`
+  (trame détaillée, timing ≈ 24 min, statuts par slide) et déclinaison
+  `Soutenance_DBA_MINANG_canevas_Valax_11_slides.pptx` +
+  `presentation/generer_canevas_valax_pptx.py`. Slides résultats/analyse
+  **préparatoires** (statut explicite) ; dédicace/remerciements hors canevas
+  Valax (options : oral ou slides de la version 15 — à trancher avec le
+  directeur). Statut : **proposition IA — à valider par l'auteur**.
 - **Dépôt GitHub propre et prêt : `upl-gabon/These-Presidence`**, branche `main`
   (site 4 pages FR + CSS/JS autonomes, jury simulé, tests ; extraction du 08/09/2026
   depuis `upl-gabon/UPL-Gabon`, liens UPL absolus `https://upl-gabon.com/`).

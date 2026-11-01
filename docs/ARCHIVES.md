@@ -62,9 +62,32 @@ l'auteur avant tout usage ; (ii) aucun contenu du support hors sources tracées
 (document fourni + dépôt) ; (iii) mise à jour du support après le terrain
 (slides 11–14, retrait des mentions « préparatoire »).
 
+**Complément — canevas Valax (même conversation, 20/09/2026).** L'auteur
+transmet ensuite les **consignes du Professeur Valax** (Directeur du DBA,
+réel) : structure de soutenance en 10 rubriques — titre · intérêt actuel ·
+revue de la littérature (2 slides) · cadre théorique · design de recherche ·
+résultats · analyse des résultats · implications managériales · limites et
+perspectives · conclusion. Livrés :
+- `presentation/CANEVAS_VALAX.md` — canevas détaillé : tableau de
+  correspondance rubrique → slide → message clé → durée indicative
+  (≈ 24 min) → statut ; détail slide par slide sourcé (chapitres/sections) ;
+  points de vigilance.
+- `presentation/Soutenance_DBA_MINANG_canevas_Valax_11_slides.pptx` —
+  déclinaison 11 slides 16:9 (kick « RUBRIQUE n » ; slides résultats/analyse
+  portant le bandeau « préparatoire » ; issue ouverte assumée sur la slide
+  analyse).
+- `presentation/generer_canevas_valax_pptx.py` — régénération.
+Garde-fous : slides 6–7 du canevas = architecture de restitution (chapitres
+5–6 préparatoires) ; aucun nom pressenti ; aucune date. **Dédicace et
+remerciements absentes du canevas Valax** : conservées dans la version
+15 slides ; option (oral d'ouverture ou slides hors canevas) à trancher par
+l'auteur avec le directeur. Contrôles : débordement 0 risque ; tests 12/12
+verts ; garde-fous D9 vérifiés au script.
+
 **Prochaine étape.** Validation du fond par l'auteur (slides 1–3 en priorité :
-directeur de thèse sur la page de garde, synthèses dédicace/remerciements),
-puis reprise de **T2** (protocole de cas, annexe C–D). Prochain intervenant du
+directeur de thèse sur la page de garde, synthèses dédicace/remerciements,
+choix du moment des remerciements dans le canevas Valax), puis reprise de
+**T2** (protocole de cas, annexe C–D). Prochain intervenant du
 temps jury : **Chabanne-Rive**.
 
 ---
