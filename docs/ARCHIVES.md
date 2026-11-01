@@ -81,6 +81,15 @@ perspectives · conclusion. Livrés :
   `presentation/CANEVAS_VALAX.docx` du canevas (même contenu, même
   traçabilité ; régénération par `presentation/generer_canevas_valax_docx.py`),
   demandée par l'auteur après la livraison du Markdown et du PowerPoint.
+- Complément (même conversation) : l'auteur signale **ne pas pouvoir ouvrir**
+  le fichier. Diagnostic : le DOCX est intègre (archive ZIP valide, ouverture
+  python-docx OK) — c'est l'**aperçu** de la visionneuse qui n'affiche pas les
+  documents Word/PowerPoint. Réponse : deux versions lisibles partout —
+  `presentation/CANEVAS_VALAX.html` (aperçu direct dans la visionneuse) et
+  `presentation/CANEVAS_VALAX.pdf` (6 pages, partage/impression ; régénération
+  `presentation/generer_canevas_valax_pdf.py`, fpdf2 + DejaVu). Le DOCX
+  s'ouvre normalement dans Word/LibreOffice/Google Docs après téléchargement
+  (bouton de téléchargement de la visionneuse ou dépôt GitHub).
 Garde-fous : slides 6–7 du canevas = architecture de restitution (chapitres
 5–6 préparatoires) ; aucun nom pressenti ; aucune date. **Dédicace et
 remerciements absentes du canevas Valax** : conservées dans la version

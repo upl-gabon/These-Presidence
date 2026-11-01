@@ -191,7 +191,10 @@ Règle : aucun chiffre ni verbatim ne sera présenté avant la collecte.
 |---|---|
 | `CANEVAS_VALAX.md` | Ce canevas (trame détaillée, timing, statuts) |
 | `CANEVAS_VALAX.docx` | Même canevas au format Word (imprimable, annotable) |
+| `CANEVAS_VALAX.html` | Version lisible dans tout navigateur (aperçu direct) |
+| `CANEVAS_VALAX.pdf` | Version PDF (partage et impression, sans Word) |
 | `Soutenance_DBA_MINANG_canevas_Valax_11_slides.pptx` | Déclinaison PowerPoint, 11 slides 16:9 |
 | `generer_canevas_valax_pptx.py` | Régénération : `python3 presentation/generer_canevas_valax_pptx.py` |
 | `generer_canevas_valax_docx.py` | Régénération : `python3 presentation/generer_canevas_valax_docx.py` |
+| `generer_canevas_valax_pdf.py` | Régénération : `python3 presentation/generer_canevas_valax_pdf.py` |
 | `Soutenance_DBA_MINANG_15_slides.pptx` | Version 15 slides antérieure (contient dédicace/remerciements) |
