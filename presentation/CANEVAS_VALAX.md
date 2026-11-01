@@ -46,7 +46,7 @@ slides 3–6).
 - Titre intégral de la thèse ; auteur ; mention du directeur de thèse
   (reprise des remerciements fournis — **à confirmer par l'auteur**).
 - Mention sobre : « Support de soutenance — document de travail ».
-- Aucune date ni lieu (D4 : rien d'inventé).
+- Date de soutenance : **15 décembre 2026** (fournie par l'auteur) ; lieu non communiqué.
 
 ### Slide 2 — Intérêt actuel du sujet (rubrique 2)
 Message clé : **un croisement à documenter, pas une mode à suivre.**
@@ -195,6 +195,10 @@ Règle : aucun chiffre ni verbatim ne sera présenté avant la collecte.
 | `CANEVAS_VALAX_DEVELOPPE.md` | Version développée : script oral complet par slide (à l'écran / à l'oral / transition / sources) |
 | `CANEVAS_VALAX_DEVELOPPE.html` | Version développée lisible dans tout navigateur (aperçu direct) |
 | `generer_canevas_valax_developpe_html.py` | Régénération HTML : `python3 presentation/generer_canevas_valax_developpe_html.py` |
+| `CANEVAS_VALAX_DEVELOPPE.docx` | Version développée au format Word (annotable) — soutenance du 15 décembre 2026 |
+| `CANEVAS_VALAX_DEVELOPPE.pdf` | Version développée en PDF (14 pages, partage et impression) |
+| `generer_canevas_valax_developpe_docx.py` | Régénération : `python3 presentation/generer_canevas_valax_developpe_docx.py` |
+| `generer_canevas_valax_developpe_pdf.py` | Régénération : `python3 presentation/generer_canevas_valax_developpe_pdf.py` |
 | `CANEVAS_VALAX.docx` | Même canevas au format Word (imprimable, annotable) |
 | `CANEVAS_VALAX.html` | Version lisible dans tout navigateur (aperçu direct) |
 | `CANEVAS_VALAX.pdf` | Version PDF (partage et impression, sans Word) |

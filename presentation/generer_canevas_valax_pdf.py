@@ -5,7 +5,7 @@ Déclinaison PDF de `CANEVAS_VALAX.md` / `CANEVAS_VALAX.docx` (même contenu).
 Version lisible partout : ouverture sans Word ni PowerPoint.
 
 Garde-fous (D9) : chapitres 5–6 préparatoires (aucun résultat inventé) ;
-codes EPES-A à EPES-E ; aucune date de soutenance ; statut « proposition
+codes EPES-A à EPES-E ; date de soutenance : 15/12/2026 (fournie par l'auteur) ; statut « proposition
 IA — à valider par l'auteur ».
 
 Sortie : presentation/CANEVAS_VALAX.pdf
@@ -66,7 +66,7 @@ DETAILS = [
     ("Slide 1 — Titre (rubrique 1)", [
         "Titre intégral de la thèse ; auteur ; mention du directeur de thèse (reprise des remerciements fournis — à confirmer par l'auteur).",
         "Mention sobre : « Support de soutenance — document de travail ».",
-        "Aucune date ni lieu (règle : rien d'inventé).",
+        "Date de soutenance : 15 décembre 2026 (fournie par l'auteur) ; lieu non communiqué.",
     ]),
     ("Slide 2 — Intérêt actuel du sujet (rubrique 2)", [
         "Un contexte sous tension — contraintes financières, académiques et institutionnelles interconnectées : configuration de « polycrise » (résumé ; chapitre 1, § 1.10).",
@@ -142,6 +142,11 @@ FILES = [
     ("CANEVAS_VALAX.html", "Version lisible dans tout navigateur"),
     ("CANEVAS_VALAX.pdf", "Ce document (partage et impression)"),
     ("CANEVAS_VALAX.md", "Canevas source (même contenu, format Markdown)"),
+    ("CANEVAS_VALAX_DEVELOPPE.md", "Version développée : script oral par slide"),
+    ("CANEVAS_VALAX_DEVELOPPE.docx", "Version développée Word (annotable)"),
+    ("CANEVAS_VALAX_DEVELOPPE.pdf", "Version développée PDF (14 pages)"),
+    ("generer_canevas_valax_developpe_docx.py", "Régénération du Word développé"),
+    ("generer_canevas_valax_developpe_pdf.py", "Régénération du PDF développé"),
     ("Soutenance_DBA_MINANG_canevas_Valax_11_slides.pptx",
      "Déclinaison PowerPoint du canevas (11 slides 16:9)"),
     ("Soutenance_DBA_MINANG_15_slides.pptx",
@@ -204,8 +209,8 @@ pdf.set_text_color(*MUTED)
 pdf.multi_cell(0, 4.6,
                "Sources du contenu : document de thèse fourni par l'auteur (20/09/2026) et dépôt "
                "These-Presidence. Aucun résultat de terrain inventé : les rubriques 6 et 7 sont "
-               "préparatoires (chapitres 5–6) ; terrain codé EPES-A à EPES-E ; aucune date de "
-               "soutenance.", new_x="LMARGIN", new_y="NEXT")
+               "préparatoires (chapitres 5–6) ; terrain codé EPES-A à EPES-E ; date de "
+               "soutenance : 15 décembre 2026 (fournie par l'auteur).", new_x="LMARGIN", new_y="NEXT")
 pdf.ln(3)
 
 

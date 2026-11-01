@@ -6,7 +6,8 @@ Sources du contenu (fournies par l'auteur, 20/09/2026) : document de thèse
 dépôt (REPRISE.md, style.css : palette encre/bronze/papier).
 
 Garde-fous appliqués (docs/GARDE_FOUS_IA.md, D9) :
-- rien d'inventé : pas de date de soutenance, pas d'université supposée,
+- date de soutenance : 15 décembre 2026 (fournie par l'auteur) ; rien d'inventé :
+  pas d'université supposée,
   pas de résultat de terrain (chap. 5–6 = architecture préparatoire) ;
 - terrain codé EPES-A à EPES-E (aucun nom pressenti) ;
 - ton sobre, valeurs canoniques du dépôt (5 cas, 45 participants cible,
@@ -182,7 +183,7 @@ rect(s, 0, 6.84, 13.333, 0.03, fill=BRONZE)
 rect(s, 0, 6.87, 13.333, 0.63, fill=INKD)
 tf = tbox(s, 2.0, 7.02, 9.33, 0.34)
 run(para(tf, True, align=PP_ALIGN.CENTER),
-    "Support de soutenance — document de travail", 10.5, BRONZE_S, spc=120)
+    "Soutenance du 15 décembre 2026 — document de travail", 10.5, BRONZE_S, spc=120)
 
 # =====================================================================
 # SLIDE 2 — Dédicace
@@ -825,10 +826,9 @@ cp.author = "Serge Patrick MINANG"
 cp.subject = ("Thèse DBA — IA, IE, performance globale, RSE, développement "
               "durable")
 cp.comments = ("Proposition IA — à valider par l'auteur. Contenu sourcé : "
-               "document de thèse fourni par l'auteur (20/09/2026) et dépôt "
-               "These-Presidence (REPRISE.md, style.css). Aucune donnée de "
-               "terrain inventée ; aucun résultat acquis ; pas de date de "
-               "soutenance.")
+               "thèse fournie (20/09/2026) + dépôt. Aucune donnée de "
+               "terrain inventée ; aucun résultat acquis ; date de "
+               "soutenance : 15 décembre 2026 (fournie par l'auteur).")
 
 OUT = "presentation/Soutenance_DBA_MINANG_15_slides.pptx"
 prs.save(OUT)

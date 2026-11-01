@@ -99,7 +99,12 @@ perspectives · conclusion. Livrés :
   **transition**, **sources** (chapitres/sections) et **points de vigilance** ;
   script **condensé injecté dans les notes présentateur** du PowerPoint 11
   slides (régénéré, 11/11 notes, audits garde-fous OK : statuts préparatoire/
-  indicatif présents, aucun nom interdit, aucune date).
+  indicatif présents, aucun nom interdit). L'auteur communique ensuite la
+  **date de soutenance : 15 décembre 2026** — intégrée dans tous les supports
+  (slide 1 des deux PPTX, canevas MD/HTML/DOCX/PDF, développé MD/HTML/**DOCX
+  (452 paragraphes)/PDF (14 pages)** ; générateurs
+  `generer_canevas_valax_developpe_docx.py` / `_pdf.py` ; règle D4 respectée :
+  date fournie, rien d'inventé).
 Garde-fous : slides 6–7 du canevas = architecture de restitution (chapitres
 5–6 préparatoires) ; aucun nom pressenti ; aucune date. **Dédicace et
 remerciements absentes du canevas Valax** : conservées dans la version

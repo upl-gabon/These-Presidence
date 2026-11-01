@@ -70,8 +70,8 @@ __BODY__
   <p class="foot">Document généré depuis CANEVAS_VALAX_DEVELOPPE.md — une version condensée
   du script figure dans le volet de notes du PowerPoint
   « Soutenance_DBA_MINANG_canevas_Valax_11_slides.pptx ».
-  Garde-fous : chapitres 5–6 préparatoires ; codes EPES-A à EPES-E ; aucune date de
-  soutenance ; aucun résultat de terrain inventé.</p>
+  Garde-fous : chapitres 5–6 préparatoires ; codes EPES-A à EPES-E ; date de
+  soutenance : 15 décembre 2026 (fournie par l'auteur) ; aucun résultat de terrain inventé.</p>
 </div>
 </body>
 </html>

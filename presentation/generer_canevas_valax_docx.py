@@ -6,7 +6,7 @@ Structure imposée par les consignes du Professeur Valax transmises par
 l'auteur (20/09/2026) : 10 rubriques, revue sur 2 slides.
 
 Garde-fous (D9) : chapitres 5–6 préparatoires (aucun résultat inventé) ;
-codes EPES-A à EPES-E ; aucune date de soutenance ; statut « proposition
+codes EPES-A à EPES-E ; date de soutenance : 15/12/2026 (fournie par l'auteur) ; statut « proposition
 IA — à valider par l'auteur ». Charte : encre #232B33 / bronze #6E4F0E.
 
 Sortie : presentation/CANEVAS_VALAX.docx
@@ -128,7 +128,8 @@ set_font(p.add_run("Sources du contenu : document de thèse fourni par "
                    "Garde-fous : aucun résultat de terrain inventé — les "
                    "rubriques 6 et 7 présentent l'architecture de restitution "
                    "(chapitres 5–6 préparatoires) ; terrain codé EPES-A à "
-                   "EPES-E ; aucune date de soutenance."),
+                   "EPES-E ; date de soutenance : 15 décembre 2026 (fournie par "
+                   "l'auteur)."),
          SANS, 9, MUTED, italic=True)
 
 # ---- Tableau de correspondance ----
@@ -207,7 +208,7 @@ details = [
         "Titre intégral de la thèse ; auteur ; mention du directeur de thèse "
         "(reprise des remerciements fournis — à confirmer par l'auteur).",
         "Mention sobre : « Support de soutenance — document de travail ».",
-        "Aucune date ni lieu (règle : rien d'inventé).",
+        "Date de soutenance : 15 décembre 2026 (fournie par l'auteur) ; lieu non communiqué.",
     ]),
     ("Slide 2 — Intérêt actuel du sujet (rubrique 2)", [
         "Un contexte sous tension — contraintes financières, académiques et "
@@ -383,6 +384,11 @@ for i, h in enumerate(["Fichier", "Rôle"]):
 for f, role in [
     ("CANEVAS_VALAX.docx", "Ce document (canevas Word, 10 rubriques)"),
     ("CANEVAS_VALAX.md", "Canevas source (même contenu, format Markdown)"),
+    ("CANEVAS_VALAX_DEVELOPPE.md", "Version développée : script oral par slide"),
+    ("CANEVAS_VALAX_DEVELOPPE.docx", "Version développée Word (annotable)"),
+    ("CANEVAS_VALAX_DEVELOPPE.pdf", "Version développée PDF (14 pages)"),
+    ("generer_canevas_valax_developpe_docx.py", "Régénération du Word développé"),
+    ("generer_canevas_valax_developpe_pdf.py", "Régénération du PDF développé"),
     ("Soutenance_DBA_MINANG_canevas_Valax_11_slides.pptx",
      "Déclinaison PowerPoint du canevas (11 slides 16:9)"),
     ("generer_canevas_valax_docx.py", "Régénération de ce document"),

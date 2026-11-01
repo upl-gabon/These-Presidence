@@ -10,7 +10,7 @@ perspectives · 10 conclusion.
 Sources : document de thèse fourni par l'auteur (20/09/2026) + dépôt.
 Garde-fous (D9) : chapitres 5–6 préparatoires → slides 6–7 = architecture de
 restitution explicite, aucun résultat inventé ; codes EPES-A à EPES-E ;
-aucune date de soutenance ; charte encre/bronze/papier.
+date de soutenance : 15 décembre 2026 (fournie par l'auteur) ; charte encre/bronze/papier.
 
 Sortie : presentation/Soutenance_DBA_MINANG_canevas_Valax_11_slides.pptx
 Statut : proposition IA — à valider par l'auteur. Trame détaillée :
@@ -197,7 +197,7 @@ rect(s, 0, 6.84, 13.333, 0.03, fill=BRONZE)
 rect(s, 0, 6.87, 13.333, 0.63, fill=INKD)
 tf = tbox(s, 2.0, 7.02, 9.33, 0.34)
 run(para(tf, True, align=PP_ALIGN.CENTER),
-    "Support de soutenance — canevas Valax — document de travail", 10.5,
+    "Soutenance du 15 décembre 2026 — canevas Valax — document de travail", 10.5,
     BRONZE_S, spc=120)
 
 # =====================================================================
@@ -848,7 +848,7 @@ cp.subject = ("Thèse DBA — IA, IE, performance globale, RSE, développement "
 cp.comments = ("Proposition IA — à valider par l'auteur. Structure selon les "
                "consignes du Professeur Valax. Sources : thèse fournie "
                "(20/09/2026) + dépôt. Slides 7-8 préparatoires ; rien "
-               "d'inventé ; pas de date de soutenance.")
+               "d'inventé ; date de soutenance : 15 décembre 2026 (fournie par l'auteur).")
 
 OUT = "presentation/Soutenance_DBA_MINANG_canevas_Valax_11_slides.pptx"
 prs.save(OUT)

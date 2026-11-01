@@ -67,8 +67,10 @@
   directeur). Statut : **proposition IA — à valider par l'auteur**.
   Compléments : versions lisibles partout (`CANEVAS_VALAX.html` / `.pdf`,
   après incident d'aperçu) ; **version développée** `CANEVAS_VALAX_DEVELOPPE.md`
-  / `.html` (script oral complet par slide, transitions, sources, vigilance,
-  variantes 15 min) et **script condensé dans les notes du PPTX 11 slides**.
+  / `.html` / `.docx` / `.pdf` (script oral complet par slide, transitions,
+  sources, vigilance, variantes 15 min) et **script condensé dans les notes du
+  PPTX 11 slides**. **Date de soutenance : 15 décembre 2026** (fournie par
+  l'auteur ; affichée sur la slide 1 des deux decks ; D4 respecté).
 - **Dépôt GitHub propre et prêt : `upl-gabon/These-Presidence`**, branche `main`
   (site 4 pages FR + CSS/JS autonomes, jury simulé, tests ; extraction du 08/09/2026
   depuis `upl-gabon/UPL-Gabon`, liens UPL absolus `https://upl-gabon.com/`).

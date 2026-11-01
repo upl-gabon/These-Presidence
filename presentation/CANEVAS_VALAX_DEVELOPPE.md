@@ -12,7 +12,7 @@
 > PowerPoint (affichage → Page de commentaires, ou mode Présentateur).
 >
 > **Garde-fous (D9) :** aucun résultat de terrain inventé ; slides 7–8 **préparatoires**
-> (chapitres 5–6) ; terrain codé EPES-A à EPES-E ; aucune date de soutenance ;
+> (chapitres 5–6) ; terrain codé EPES-A à EPES-E ; date de soutenance : **15 décembre 2026** (fournie par l'auteur) ;
 > mention « proposition IA » conservée.
 
 ## Comment utiliser ce document
@@ -58,8 +58,8 @@ indiquent les phrases à sacrifier en premier (entre crochets [COMPRESSER]).
 
 **À l'écran :** titre intégral de la thèse ; sous-titre (IA × IE × finalités) ;
 « Serge Patrick MINANG » ; « Directeur de thèse : Professeur Jérôme CHABANE RIVE » ;
-monogramme « SM » ; bandeau « Support de soutenance — canevas Valax — document
-de travail ». Aucune date, aucun lieu.
+monogramme « SM » ; bandeau « Soutenance du 15 décembre 2026 — canevas Valax — document
+de travail ». Lieu : non communiqué (date fournie par l'auteur).
 
 **À l'oral — script (≈ 85 mots) :**
 
@@ -79,7 +79,7 @@ de travail ». Aucune date, aucun lieu.
 **Transition :** « Pourquoi ce sujet, et pourquoi maintenant ? »
 
 **Sources :** page de titre du manuscrit ; remerciements fournis par l'auteur.
-**Vigilance :** pas de date ni de lieu (rien d'inventé) ; ne pas s'étendre sur
+**Vigilance :** date affichée : 15 décembre 2026 (fournie par l'auteur) ; lieu non communiqué ; ne pas s'étendre sur
 les remerciements (hors canevas Valax).
 
 ---
@@ -553,7 +553,7 @@ est la phrase du manuscrit, pas une promesse.
    optionnels (slides 1 et 11), à trancher avec le Professeur Valax.
 6. **Après la collecte** : réécrire slides 7–8 (tableau 5.17), retirer
    « préparatoire », rattacher R1–R6 aux constats réels.
-7. **Aucune date de soutenance, aucun nom d'établissement réel, aucun verbatim
+7. **Date de soutenance : 15 décembre 2026** (affichée slide 1, fournie par l'auteur) ; aucun nom d'établissement réel, aucun verbatim
    anticipé** — dans ce document comme dans les slides.
 
 ## Fichiers liés
@@ -562,6 +562,10 @@ est la phrase du manuscrit, pas une promesse.
 |---|---|
 | `CANEVAS_VALAX_DEVELOPPE.md` | Ce document (script oral complet par slide) |
 | `CANEVAS_VALAX_DEVELOPPE.html` | Version lisible dans tout navigateur (aperçu direct) |
+| `CANEVAS_VALAX_DEVELOPPE.docx` | Même contenu au format Word (annotable) |
+| `CANEVAS_VALAX_DEVELOPPE.pdf` | Même contenu en PDF (14 pages, partage et impression) |
+| `generer_canevas_valax_developpe_docx.py` | Régénération : `python3 presentation/generer_canevas_valax_developpe_docx.py` |
+| `generer_canevas_valax_developpe_pdf.py` | Régénération : `python3 presentation/generer_canevas_valax_developpe_pdf.py` |
 | `CANEVAS_VALAX.md` | Canevas source (10 rubriques, timing, statuts) |
 | `Soutenance_DBA_MINANG_canevas_Valax_11_slides.pptx` | PowerPoint 11 slides — script condensé dans les notes de chaque slide |
 | `generer_canevas_valax_pptx.py` | Régénération : `python3 presentation/generer_canevas_valax_pptx.py` |

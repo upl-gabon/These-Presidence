@@ -11,8 +11,9 @@
 - **Contenu sourcé** : texte de thèse fourni par l'auteur le 20/09/2026
   (dédicace, remerciements, résumé, plan général, chapitres 1–6, conclusion,
   guide unique) et dépôt (`REPRISE.md`, `style.css` pour la charte).
-- **Rien d'inventé** : pas de date de soutenance, pas d'université
-  d'inscription supposée, aucune donnée de terrain, aucun verbatim fabriqué,
+- **Rien d'inventé** : la date de soutenance est affichée uniquement
+  parce qu'elle est fournie par l'auteur (15 décembre 2026) ; pas
+  d'université d'inscription supposée, aucune donnée de terrain, aucun verbatim fabriqué,
   aucun résultat annoncé (les chapitres 5–6 du manuscrit sont préparatoires).
 - **Confidentialité (D2)** : terrain codé EPES-A à EPES-E ; aucun nom pressenti
   ne figure dans le support. Les noms de la dédicace et des remerciements
