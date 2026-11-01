@@ -65,6 +65,10 @@
   **préparatoires** (statut explicite) ; dédicace/remerciements hors canevas
   Valax (options : oral ou slides de la version 15 — à trancher avec le
   directeur). Statut : **proposition IA — à valider par l'auteur**.
+  Compléments : versions lisibles partout (`CANEVAS_VALAX.html` / `.pdf`,
+  après incident d'aperçu) ; **version développée** `CANEVAS_VALAX_DEVELOPPE.md`
+  / `.html` (script oral complet par slide, transitions, sources, vigilance,
+  variantes 15 min) et **script condensé dans les notes du PPTX 11 slides**.
 - **Dépôt GitHub propre et prêt : `upl-gabon/These-Presidence`**, branche `main`
   (site 4 pages FR + CSS/JS autonomes, jury simulé, tests ; extraction du 08/09/2026
   depuis `upl-gabon/UPL-Gabon`, liens UPL absolus `https://upl-gabon.com/`).

@@ -1,0 +1,608 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>Canevas Valax DÉVELOPPÉ — script oral par slide (soutenance DBA)</title>
+<style>
+  :root{
+    --paper:#FAF8F2; --card:#FFFFFF; --ink:#232B33; --inkd:#141B22;
+    --bronze:#8A6414; --bronzeD:#6E4F0E; --bronzeS:#F1E8D0;
+    --line:#E3DAC6; --muted:#5E6A76;
+  }
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--paper);color:var(--ink);
+    font:16px/1.6 "Segoe UI",system-ui,-apple-system,sans-serif}
+  .wrap{max-width:980px;margin:0 auto;padding:2rem 1.25rem 4rem}
+  .top{font-size:.72rem;letter-spacing:.14em;text-transform:uppercase;
+    color:var(--bronze);font-weight:700}
+  h1{font-family:Georgia,serif;color:var(--inkd);font-size:1.9rem;margin:.3rem 0 .2rem}
+  .sub{font-family:Georgia,serif;font-style:italic;color:var(--muted);margin:0 0 .4rem}
+  hr{border:0;border-top:2px solid var(--bronze);margin:.6rem 0 1.2rem}
+  h2{font-family:Georgia,serif;color:var(--bronzeD);font-size:1.3rem;
+    margin:2.2rem 0 .5rem;border-bottom:1px solid var(--line);padding-bottom:.25rem}
+  h3{font-family:Georgia,serif;color:var(--inkd);font-size:1.05rem;margin:1.6rem 0 .4rem}
+  table{width:100%;border-collapse:collapse;background:var(--card);
+    border:1px solid var(--line);font-size:.85rem;margin:.6rem 0 1rem}
+  th{background:var(--bronzeD);color:#fff;text-align:left;padding:.45rem .55rem;
+    font-size:.72rem;text-transform:uppercase;letter-spacing:.04em}
+  td{border:1px solid var(--line);padding:.42rem .55rem;vertical-align:top}
+  ul,ol{margin:.3rem 0 .8rem;padding-left:1.4rem}
+  li{margin:.28rem 0}
+  li b,td b,p b{color:var(--bronzeD)}
+  p{margin:.45rem 0}
+  blockquote{margin:.6rem 0 1rem;padding:.75rem 1.05rem;background:var(--card);
+    border:1px solid var(--line);border-left:4px solid var(--bronze);
+    border-radius:0 8px 8px 0;font-size:1.02rem}
+  blockquote p{margin:.35rem 0}
+  code{background:var(--bronzeS);border:1px solid var(--line);border-radius:4px;
+    padding:.05rem .3rem;font-size:.85em;color:var(--inkd)}
+  .foot{margin-top:2.4rem;font-size:.78rem;color:var(--muted);font-style:italic;
+    border-top:1px solid var(--line);padding-top:.8rem}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <div class="top">Proposition IA — à valider par l'auteur</div>
+<blockquote>
+<p><strong>Statut : proposition IA — à valider par l'auteur.</strong>
+Ce document développe le canevas <code>CANEVAS_VALAX.md</code> en un support <strong>directement
+exploitable pour le PowerPoint</strong> (<code>Soutenance_DBA_MINANG_canevas_Valax_11_slides.pptx</code>) :
+pour chacune des 11 slides — ce qui est <strong>à l'écran</strong>, ce qu'il faut <strong>dire à l'oral</strong>
+(script complet, chronométré), la <strong>transition</strong> vers la slide suivante, les <strong>sources</strong>
+dans la thèse et les <strong>points de vigilance</strong>.</p>
+<p>Le script oral complet est dans ce document. Une <strong>version condensée</strong> (repères
+et phrases clés) est intégrée dans le <strong>volet de notes</strong> de chaque slide du
+PowerPoint (affichage → Page de commentaires, ou mode Présentateur).</p>
+<p><strong>Garde-fous (D9) :</strong> aucun résultat de terrain inventé ; slides 7–8 <strong>préparatoires</strong>
+(chapitres 5–6) ; terrain codé EPES-A à EPES-E ; aucune date de soutenance ;
+mention « proposition IA » conservée.</p>
+</blockquote>
+<h2>Comment utiliser ce document</h2>
+<ol>
+<li><strong>Répéter avec le script</strong> : chaque script est calibré à ≈ 140 mots/minute
+   (débit soutenu). Durée totale ≈ 24–25 minutes ; à compresser si l'école
+   doctorale impose 15 minutes (voir « Version 15 minutes » plus bas).</li>
+<li><strong>Ne pas lire l'écran</strong> : l'écran porte les mots-clés (cartes), le script porte
+   les phrases. Le jury écoute l'un et lit l'autre.</li>
+<li><strong>Respecter les statuts</strong> : slides 7–8 dire explicitement « préparatoire » ;
+   slide 9 dire « options indicatives ». Ne jamais présenter les chapitres 5–6
+   comme acquis.</li>
+<li><strong>Après la collecte</strong> : réécrire slides 7–8 à partir des résultats réels
+   (tableau 5.17) et retirer les mentions « préparatoire » — ici et dans les notes.</li>
+<li><strong>À trancher avec le directeur</strong> : dédicace/remerciements (absents du canevas
+   Valax ; options en slide 1 et fin de slide 11).</li>
+</ol>
+<h2>Chronologie globale</h2>
+<table>
+<thead>
+<tr>
+<th>Slide</th>
+<th>Rubrique (Valax)</th>
+<th>Durée cible</th>
+<th>Statut à l'oral</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>1. Titre</td>
+<td>0,5 min</td>
+<td>Établi</td>
+</tr>
+<tr>
+<td>2</td>
+<td>2. Intérêt actuel</td>
+<td>2 min</td>
+<td>Établi</td>
+</tr>
+<tr>
+<td>3</td>
+<td>3. Revue (1/2)</td>
+<td>2,5 min</td>
+<td>Établi</td>
+</tr>
+<tr>
+<td>4</td>
+<td>3. Revue (2/2)</td>
+<td>2,5 min</td>
+<td>Établi</td>
+</tr>
+<tr>
+<td>5</td>
+<td>4. Cadre théorique</td>
+<td>3 min</td>
+<td>Établi</td>
+</tr>
+<tr>
+<td>6</td>
+<td>5. Design de recherche</td>
+<td>3 min</td>
+<td>Établi</td>
+</tr>
+<tr>
+<td>7</td>
+<td>6. Résultats</td>
+<td>3 min</td>
+<td><strong>Préparatoire</strong></td>
+</tr>
+<tr>
+<td>8</td>
+<td>7. Analyse des résultats</td>
+<td>2,5 min</td>
+<td><strong>Préparatoire</strong></td>
+</tr>
+<tr>
+<td>9</td>
+<td>8. Implications managériales</td>
+<td>2,5 min</td>
+<td>Établi (indicatif)</td>
+</tr>
+<tr>
+<td>10</td>
+<td>9. Limites et perspectives</td>
+<td>2 min</td>
+<td>Établi</td>
+</tr>
+<tr>
+<td>11</td>
+<td>10. Conclusion</td>
+<td>1 min</td>
+<td>Établi</td>
+</tr>
+<tr>
+<td>—</td>
+<td><strong>Total</strong></td>
+<td><strong>≈ 24,5 min</strong></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p><strong>Version 15 minutes (si imposée)</strong> : slide 2 → 1 min ; slides 3–4 traitées ensemble
+(2,5 min au total) ; slide 5 → 2 min ; slide 6 → 2 min ; slides 7–8 ensemble
+(2,5 min) ; slide 9 → 2 min ; slides 10–11 → 1,5 min. Les scripts ci-dessous
+indiquent les phrases à sacrifier en premier (entre crochets [COMPRESSER]).</p>
+<hr>
+<h2>Slide 1 — Page de titre (rubrique 1) · 0,5 min</h2>
+<p><strong>À l'écran :</strong> titre intégral de la thèse ; sous-titre (IA × IE × finalités) ;
+« Serge Patrick MINANG » ; « Directeur de thèse : Professeur Jérôme CHABANE RIVE » ;
+monogramme « SM » ; bandeau « Support de soutenance — canevas Valax — document
+de travail ». Aucune date, aucun lieu.</p>
+<p><strong>À l'oral — script (≈ 85 mots) :</strong></p>
+<blockquote>
+<p>Mesdames et Messieurs les membres du jury, je vous remercie de l'honneur que
+vous me faites en acceptant d'évaluer ce travail.</p>
+<p>Ma thèse porte sur la gouvernance augmentée des établissements privés
+d'enseignement supérieur au Gabon, en situation de polycrise. Elle examine
+l'articulation entre l'intelligence artificielle et l'intelligence émotionnelle,
+au service de trois finalités : la performance globale, la responsabilité
+sociétale et le développement durable. Ce travail a été mené sous la direction
+du Professeur Jérôme Chabane-Rive.</p>
+<p>[Option, à trancher avec le directeur : brève dédicace ou remerciement
+d'ouverture — sinon, passer directement à la slide 2.]</p>
+</blockquote>
+<p><strong>Transition :</strong> « Pourquoi ce sujet, et pourquoi maintenant ? »</p>
+<p><strong>Sources :</strong> page de titre du manuscrit ; remerciements fournis par l'auteur.
+<strong>Vigilance :</strong> pas de date ni de lieu (rien d'inventé) ; ne pas s'étendre sur
+les remerciements (hors canevas Valax).</p>
+<hr>
+<h2>Slide 2 — Intérêt actuel du sujet (rubrique 2) · 2 min</h2>
+<p><strong>À l'écran :</strong> 4 cartes — 1) Un contexte sous tension ; 2) Une technologie qui
+change la décision ; 3) Un angle mort de la littérature ; 4) Une utilité
+managériale (DBA). Bandeau : « Position de la thèse : ni promesse technologique,
+ni rejet de principe — un objet à construire et à examiner sur le terrain. »</p>
+<p><strong>À l'oral — script (≈ 285 mots) :</strong></p>
+<blockquote>
+<p>Quatre raisons rendent ce sujet nécessaire aujourd'hui.</p>
+<p>Premièrement, un contexte sous tension. Les établissements privés
+d'enseignement supérieur gabonais cumulent des contraintes financières,
+académiques et institutionnelles. L'essentiel n'est pas leur addition, c'est
+leur interconnexion : une difficulté financière devient une difficulté de
+recrutement, qui devient une difficulté réglementaire. La littérature récente
+nomme cette configuration une polycrise : des crises interdépendantes, avec
+des stress communs et des effets de propagation (Lawrence et al., 2024).</p>
+<p>Deuxièmement, une technologie qui change la décision. L'intelligence
+artificielle se diffuse dans le pilotage des organisations. La question n'est
+pas de savoir si des outils existent — ils existent — mais ce que leur usage
+change réellement dans la décision de gouvernance. Je refuse d'emblée le
+techno-solutionnisme : l'outil ne décide pas à la place de l'institution.</p>
+<p>Troisièmement, un angle mort de la littérature. Comme je le montrerai dans la
+revue, l'articulation entre intelligence artificielle et intelligence
+émotionnelle dans la gouvernance des établissements privés d'enseignement
+supérieur n'est pas documentée.</p>
+<p>Quatrièmement, une utilité managériale, au cœur de la logique DBA : identifier
+les conditions de décisions rapides qui préservent en même temps la qualité
+académique, l'équilibre humain, la responsabilité sociétale et le développement
+durable.</p>
+<p>D'où la position de la thèse, qui tient en une phrase : ni promesse
+technologique, ni rejet de principe — un objet à construire et à examiner sur
+le terrain.</p>
+<p>[COMPRESSER : fondre les points 1 et 2 en une phrase chacun.]</p>
+</blockquote>
+<p><strong>Transition :</strong> « Pour instruire ce croisement, encore faut-il savoir ce que la
+littérature établit déjà — et ce qu'elle ignore. Deux temps. »</p>
+<p><strong>Sources :</strong> résumé ; chap. 1 § 1.10 ; chap. 2 § 2.5 ; chap. 2 § 2.10.2–2.10.3 ;
+chap. 3 § 3.1.
+<strong>Vigilance :</strong> ne pas promettre d'effets positifs de l'IA à ce stade.</p>
+<hr>
+<h2>Slide 3 — Revue de la littérature 1/2 (rubrique 3) · 2,5 min</h2>
+<p><strong>À l'écran :</strong> 3 colonnes — 1) Lectures plurielles de la gouvernance (agence,
+intendance, parties prenantes, dépendance aux ressources) ; 2) Légitimité et
+spécificités universitaires (institutionnel, Clark, Weick, Bleiklie et Kogan) ;
+3) Limites des modèles classiques. Bandeau : « Constat : aucune approche seule
+n'éclaire la décision en contexte de polycrise — d'où un cadre intégré. »</p>
+<p><strong>À l'oral — script (≈ 350 mots) :</strong></p>
+<blockquote>
+<p>La gouvernance dispose de lectures plurielles, et la thèse les assume toutes.</p>
+<p>La théorie de l'agence (Jensen et Meckling, 1976) rappelle qu'une organisation
+vit avec des asymétries d'information et des problèmes de contrôle. La
+intendance (Davis et al., 1997) rappelle l'inverse : des dirigeants qui
+s'engagent au-delà du contrat, par confiance. La théorie des parties
+prenantes (Freeman, 1984 ; Mitchell et al., 1997) rappelle que des attentes
+concurrentes s'exercent sur la décision. La dépendance aux ressources
+(Pfeffer et Salancik, 2003 [1978]) rappelle enfin que l'environnement
+contraint ce que l'organisation peut décider.</p>
+<p>Deuxième bloc : les spécificités universitaires. L'analyse institutionnelle
+(Meyer et Rowan, 1977 ; DiMaggio et Powell, 1983) montre que les
+organisations se conforment aussi par légitimité, par mythes et par
+découplage. Clark (1983) décrit des autorités multiples qui doivent se
+coordonner ; Weick (1976), un couplage lâche typique des organisations
+éducatives ; Bleiklie et Kogan (2007), les transformations managériales des
+universités.</p>
+<p>Troisième bloc, décisif : les limites de ces modèles classiques. La structure
+formelle n'est pas le pouvoir effectif. La rationalité est limitée — on décide
+sous incertitude (Simon, 1955). Les indicateurs sont réactifs : ce qui est
+mesuré change (Espeland et Sauder, 2007). Et les tensions entre exigences
+légitimes persistent (Smith et Lewis, 2011).</p>
+<p>D'où le constat qui structure toute la revue : aucune approche seule n'éclaire
+la décision en contexte de polycrise. [COMPRESSER : citer les auteurs par
+famille sans détailler chaque apport.]</p>
+</blockquote>
+<p><strong>Transition :</strong> « Ce premier temps portait sur la gouvernance. Le second porte
+sur ses deux composantes inédites : l'IA, l'IE — et les finalités. »</p>
+<p><strong>Sources :</strong> chap. 2 (sections gouvernance et universités).
+<strong>Vigilance :</strong> citer sans survoler ; le jury connaît ces auteurs.</p>
+<hr>
+<h2>Slide 4 — Revue de la littérature 2/2 (rubrique 3) · 2,5 min</h2>
+<p><strong>À l'écran :</strong> 3 colonnes — 1) IA et décision (Raisch et Krakowski ; Vaccaro
+et al. ; NIST ; UNESCO) ; 2) Intelligence émotionnelle (Mayer et al. ; Petrides
+et Furnham ; Goleman ; Bar-On ; Joseph et al. ; Côté et al.) ; 3) Polycrise et
+finalités (Lawrence et al. ; ISO 26000 ; Vallaeys ; ONU). Carte encadrée :
+« Lacune instruite par la thèse : l'articulation IA–IE dans la gouvernance des
+EPES n'est documentée nulle part : ni cadre non circulaire, ni données
+contextuelles sur l'enseignement supérieur privé africain. »</p>
+<p><strong>À l'oral — script (≈ 350 mots) :</strong></p>
+<blockquote>
+<p>Côté intelligence artificielle, la littérature de gestion a été structurée par
+un paradoxe : automatiser la décision ou augmenter le décideur (Raisch et
+Krakowski, 2021). Les travaux expérimentaux invitent à la prudence : les
+combinaisons humain–IA ne sont pas systématiquement supérieures à l'humain
+seul ou à la machine seule (Vaccaro et al., 2024). Les référentiels de
+gestion des risques fixent le cadre de l'encadrement : NIST (2023, 2024),
+orientation UNESCO (Miao et Holmes, 2023).</p>
+<p>Côté intelligence émotionnelle, quatre familles de modèles coexistent —
+habiletés (Mayer et al.), trait (Petrides et Furnham), compétences (Goleman),
+émotionnel-social (Bar-On). Les apports sont réels mais dépendent des
+mesures (Joseph et al., 2015), et les usages peuvent être ambivalents
+(Côté et al., 2011). Autrement dit : ni recette, ni rejet.</p>
+<p>Troisième colonne : la polycrise (Lawrence et al., 2024) impose de penser les
+finalités ensemble sans les confondre — performance globale, responsabilité
+sociétale et développement durable sont des registres liés, non
+interchangeables (ISO 26000 ; Vallaeys, 2014 ; Nations Unies, 2015).</p>
+<p>Et c'est là que la revue aboutit à une lacune, que la thèse instruit
+explicitement : l'articulation entre IA et IE dans la gouvernance des EPES
+n'est documentée nulle part. Ni cadre non circulaire, ni données
+contextuelles sur l'enseignement supérieur privé africain.</p>
+<p>[COMPRESSER : une phrase par colonne, garder la lacune intégralement.]</p>
+</blockquote>
+<p><strong>Transition :</strong> « Cette lacune appelle un cadre. Le voici. »</p>
+<p><strong>Sources :</strong> chap. 2 § 2.10.2–2.10.3 (lacune) ; sections IA, IE, finalités.
+<strong>Vigilance :</strong> la lacune se dit en fin de slide, pour préparer le cadre —
+ne pas l'anticiper sur la slide 3.</p>
+<hr>
+<h2>Slide 5 — Cadre théorique (rubrique 4) · 3 min</h2>
+<p><strong>À l'écran :</strong> carte « Définition opérationnelle (chap. 3, § 3.2.4) » avec la
+citation verbatim ; chaîne Contexte → Capacités → Gouvernance augmentée →
+Effets (P1–P6) ; bandeau Conditions (P7) ; paragraphe « Sept propositions
+(P1–P7) » ; garde-fou conceptuel (anti-tautologie).</p>
+<p><strong>À l'oral — script (≈ 420 mots) :</strong></p>
+<blockquote>
+<p>Le cadre s'appelle la gouvernance augmentée. Je le définis opérationnellement,
+et je cite le manuscrit : « Configuration décisionnelle où des fonctions
+d'IA et des pratiques relevant de l'intelligence émotionnelle sont articulées,
+avec des modalités repérables d'interprétation, d'arbitrage, de mise en œuvre
+ou de révision — sous une responsabilité humaine identifiable. »
+(chapitre 3, § 3.2.4).</p>
+<p>Cette définition s'organise en quatre blocs. Le contexte, d'abord : la
+polycrise et ses interdépendances à documenter — c'est la proposition P1.
+Les capacités, ensuite : l'IA (P2), l'intelligence émotionnelle (P3), et le
+jugement professionnel qui les relie. La gouvernance augmentée, au centre :
+l'orchestration de ces capacités sous responsabilité humaine — c'est la
+proposition P4, centrale de la thèse. Les effets, enfin : performance
+globale (P5), responsabilité sociétale et développement durable (P6) —
+le tout sous des conditions organisationnelles et institutionnelles
+transversales (P7).</p>
+<p>Je souhaite attirer l'attention du jury sur un garde-fou conceptuel que je
+considère comme décisif : la gouvernance augmentée est définie
+indépendamment de ses effets. Dire ce qu'est la GA ne revient jamais à dire
+qu'elle fonctionne ; ses bénéfices éventuels sont des questions empiriques,
+pas des définitions. Ce choix élimine la circularité que l'on rencontre
+quand on définit un dispositif par ses succès supposés.</p>
+<p>Les sept propositions P1 à P7 découlent de cette architecture : la polycrise
+appelle des pratiques nouvelles ; la contribution de l'IA est conditionnelle ;
+l'IE joue dans l'action collective ; l'orchestration articule le tout ;
+les effets se lisent par registres distincts ; et des conditions rendent
+l'ensemble possible — ou l'empêchent.</p>
+<p>[COMPRESSER : garder la définition, P4 et le garde-fou ; énumérer P1–P7 en
+une seule phrase.]</p>
+</blockquote>
+<p><strong>Transition :</strong> « Un cadre n'a de valeur que s'il peut être confronté au
+terrain. Voici le design de recherche. »</p>
+<p><strong>Sources :</strong> chap. 3 § 3.2.4 (définition, citation) ; § 3.6 (propositions) ;
+fiche concept GA (règle d'inférence).
+<strong>Vigilance :</strong> lire la définition lentement, mot pour mot — c'est la seule
+citation lue intégralement ; mentionner P4 comme proposition centrale.</p>
+<hr>
+<h2>Slide 6 — Design de recherche (rubrique 5) · 3 min</h2>
+<p><strong>À l'écran :</strong> 6 cartes — Positionnement ; Terrain ; Participants ; Collecte ;
+Analyse ; Rigueur et éthique.</p>
+<p><strong>À l'oral — script (≈ 420 mots) :</strong></p>
+<blockquote>
+<p>Le positionnement est interprétativiste, à sensibilité constructiviste, avec
+une logique abductive : aller-et-retours entre les propositions issues du
+cadre et les données du terrain (Dubois et Gadde, 2002).</p>
+<p>Le terrain : cinq établissements privés d'enseignement supérieur gabonais —
+codés EPES-A à EPES-E — sélectionnés par variation maximale selon cinq
+critères, C1 à C5. Point important : l'usage d'IA n'est pas un critère
+d'inclusion ; la thèse étudie la décision, pas la technologie.</p>
+<p>Les participants : quarante-cinq personnes distinctes visées — quinze
+dirigeants, vingt académiques, dix fonctions d'appui en administration,
+ressources humaines et numérique-qualité-RSE. Chacun consent individuellement ;
+les entretiens sont pseudonymisés.</p>
+<p>La collecte repose sur des entretiens semi-directifs structurés par quatorze
+questions, Q1 à Q14, complétés par des observations autorisées, l'analyse de
+documents internes et un journal de terrain.</p>
+<p>L'analyse : thématique hybride — une grille initiale N1 à N8, ouverte aux
+codes émergents — centrée sur des épisodes décisionnels concrets, outillée
+dans NVivo, avec des matrices exploratoires pour la comparaison inter-cas.</p>
+<p>La rigueur et l'éthique, enfin : triangulation des sources, pseudonymisation,
+piste d'audit, et réflexivité outillée du praticien-chercheur — je suis
+dirigeant dans le secteur étudié, et cette double position est traitée comme
+une donnée de la recherche, avec son journal et ses mémos.</p>
+<p>[COMPRESSER : fusionner Collecte et Analyse ; garder 5 cas, 45 participants,
+Q1–Q14, NVivo.]</p>
+</blockquote>
+<p><strong>Transition :</strong> « Venons-en aux résultats — en étant parfaitement précis sur
+leur statut. »</p>
+<p><strong>Sources :</strong> chap. 4 (protocole) ; fiche méthode.
+<strong>Vigilance :</strong> chiffres canoniques intouchables : 5 cas, 45 = 15 DIR + 20 ACA +
+10 appui, Q1–Q14, N1–N8, C1–C5 ; codes EPES-A…E partout, jamais de noms réels.</p>
+<hr>
+<h2>Slide 7 — Résultats (rubrique 6) · 3 min — <strong>PRÉPARATOIRE</strong></h2>
+<p><strong>À l'écran :</strong> bandeau bronze pâle en tête : « Aucun résultat acquis avant la
+collecte : structure du chapitre 5, à compléter avec le corpus réel — aucun
+chiffre ni verbatim anticipé. » ; 4 étapes numérotées — 1) Corpus réel ;
+2) Monographies intra-cas ; 3) Comparaison inter-cas ; 4) Effets par registre ;
+bandeau bas : « Après le terrain : les slides 7 et 8 seront réécrites à partir
+des résultats réels (tableau 5.17) et la mention "préparatoire" retirée. »</p>
+<p><strong>À l'oral — script (≈ 420 mots) :</strong></p>
+<blockquote>
+<p>Je dois être précis sur le statut de ce qui suit. Les chapitres 5 et 6 du
+manuscrit sont préparatoires : la collecte n'a pas encore produit de résultats
+présentables. Je ne présente donc pas des résultats — je présente
+l'architecture de restitution du chapitre 5, c'est-à-dire la manière dont les
+résultats seront établis et montrés lorsqu'ils existeront. Aucun chiffre,
+aucun verbatim ne sera annoncé ce jour, parce qu'aucun n'est acquis.</p>
+<p>Première étape : le corpus réel. Le chapitre établira les cas confirmés, le
+nombre de participants réellement distincts, les écarts éventuels par rapport
+au protocole — chacun justifié — et un bilan de suffisance informationnelle :
+à partir de quand les nouveaux entretiens n'apportent plus rien de décisif
+(§ 5.1).</p>
+<p>Deuxième étape : les monographies intra-cas. Chaque établissement sera décrit
+par ses configurations de gouvernance et ses épisodes décisionnels, avec ses
+sources et ses restrictions explicites (§ 5.2).</p>
+<p>Troisième étape : la comparaison inter-cas. Elle portera sur les contrastes
+et les conditions — dans quelles configurations les mécanismes apparaissent
+ou n'apparaissent pas. Les établissements seront décrits, jamais classés sur
+une échelle unique (§ 5.8).</p>
+<p>Quatrième étape : les effets par registre. Performance globale, responsabilité
+sociétale, développement durable : effets perçus, effets documentés et
+contributions plausibles seront soigneusement séparés (§ 5.7).</p>
+<p>Et dès que le terrain sera réalisé, ces slides seront réécrites à partir des
+résultats réels — le tableau 5.17 du manuscrit en est la matrice — et la
+mention « préparatoire » disparaîtra.</p>
+<p>[COMPRESSER : garder la phrase de statut et les quatre intitulés ; sacrifier
+les détails de sections.]</p>
+</blockquote>
+<p><strong>Transition :</strong> « Cette architecture a une contrepartie : une méthode d'analyse
+explicitée à l'avance. »</p>
+<p><strong>Sources :</strong> chap. 5 § 5.1, 5.2, 5.7, 5.8 ; tableau 5.17.
+<strong>Vigilance :</strong> dire le statut DÈS LA PREMIÈRE PHRASE, avant tout le reste —
+c'est l'exigence de cohérence du dépôt (échange jury n° 3) ; ne jamais
+présenter un exemple imaginaire « pour illustrer ».</p>
+<hr>
+<h2>Slide 8 — Analyse des résultats (rubrique 7) · 2,5 min — <strong>PRÉPARATOIRE</strong></h2>
+<p><strong>À l'écran :</strong> 4 cartes — Confrontation de P1 à P7 ; Cas négatifs et
+explications rivales ; Triangulation des sources ; Révision du modèle.
+Bandeau : « Issue ouverte assumée : une gouvernance augmentée non documentée
+dans le périmètre étudié resterait une conclusion recevable de la recherche. »</p>
+<p><strong>À l'oral — script (≈ 350 mots) :</strong></p>
+<blockquote>
+<p>Même préparatoire, l'analyse a sa méthode, annoncée à l'avance.</p>
+<p>Premièrement, la confrontation des propositions. Chacune des propositions P1
+à P7 recevra un statut argumenté : étayée dans certaines configurations ;
+partiellement étayée ; mise en tension ; ou non documentée. Pas de statut
+sans preuve, pas de preuve sans section (§ 5.9).</p>
+<p>Deuxièmement, les cas négatifs et les explications rivales. Les éléments
+contraires au cadre seront conservés, pas écartés (Maxwell, 2004) ; et pour
+chaque régularité, une explication alternative sera examinée. Aucune
+attribution causale nette ne sera annoncée.</p>
+<p>Troisièmement, la triangulation. Entretiens, observations et documents seront
+croisés ; les convergences seront dites, mais aussi les divergences —
+expliquées, pas dissimulées ; l'indépendance des sources sera vérifiée.</p>
+<p>Quatrièmement, la révision du modèle. Sept opérations sont prévues, chacune
+tracée et argumentée : conserver, restreindre, scinder, reformuler, suspendre,
+retirer, ou ajouter une proposition (chap. 6, § 6.4).</p>
+<p>Et j'assume une issue ouverte : si, dans le périmètre étudié, aucune
+gouvernance augmentée n'est documentée, ce sera une conclusion recevable de
+la recherche — pas un échec de la thèse. C'est la règle d'inférence fixée
+dès la fiche concept du cadre.</p>
+<p>[COMPRESSER : une phrase par carte ; garder l'issue ouverte.]</p>
+</blockquote>
+<p><strong>Transition :</strong> « Si la recherche ne dit pas encore ce qui est vrai du terrain,
+elle peut d'ores et déjà dire ce qu'un dirigeant pourra en faire. Avec
+prudence. »</p>
+<p><strong>Sources :</strong> chap. 5 § 5.9 ; chap. 6 § 6.4 ; fiche concept GA ; Maxwell (2004).
+<strong>Vigilance :</strong> même statut que la slide 7 — « préparatoire » se dit à l'oral ;
+le vocabulaire des statuts (étayée / partielle / tension / non documentée) est
+canonique, ne pas improviser d'autres catégories.</p>
+<hr>
+<h2>Slide 9 — Implications managériales (rubrique 8) · 2,5 min</h2>
+<p><strong>À l'écran :</strong> carte gauche « Six options (R1–R6) » ; carte droite « Garde-fous
+et feuille de route » (NIST, UNESCO, fiche de traçabilité, 6 phases, droit de
+ne pas déployer) ; bandeau : « Statut : options indicatives — à rattacher aux
+constats réels issus du terrain, coût complet et alternative sans IA compris. »</p>
+<p><strong>À l'oral — script (≈ 350 mots) :</strong></p>
+<blockquote>
+<p>Les implications managériales sont proposées à statut indicatif : elles
+seront rattachées aux constats réels issus du terrain.</p>
+<p>Six options. R1 : clarifier l'arbitrage, par un registre des décisions
+importantes. R2 : fiabiliser les informations qui nourrissent la décision —
+définitions, sources, corrections. R3 : encadrer un usage d'IA — périmètre,
+contrôle, solution de repli. R4 : organiser le désaccord — des objections
+exprimables et traitées. R5 : suivre les effets distincts — qui bénéficie,
+qui supporte les coûts et les charges. R6 : examiner les impacts et les
+recours — en vérifiant l'effectivité des mesures.</p>
+<p>Ces options s'inscrivent dans des garde-fous existants : le référentiel NIST
+de gestion des risques d'IA (2023) et son profil pour l'IA générative (2024),
+l'orientation UNESCO (Miao et Holmes, 2023), et une fiche de traçabilité des
+arbitrages : information, vérification, objection, décideur, suivi.</p>
+<p>La feuille de route est conditionnelle, en six phases : diagnostic,
+préparation, essai limité, évaluation, arbitrage, réexamen. Chaque phase peut
+s'arrêter — c'est voulu.</p>
+<p>Et je tiens à cette phrase : ne pas déployer, réduire ou arrêter un usage
+d'IA reste une décision de gouvernance pleinement légitime. La thèse ne
+défend pas une technologie ; elle outille une décision.</p>
+<p>[COMPRESSER : énumérer R1–R6 en une phrase ; garder les garde-fous et la
+phrase finale.]</p>
+</blockquote>
+<p><strong>Transition :</strong> « Ces options ont des limites, que j'assume — et des
+perspectives. »</p>
+<p><strong>Sources :</strong> chap. 6 § 6.6 (R1–R6) ; § 6.8 (feuille de route) ; NIST (2023,
+2024) ; Miao et Holmes (2023).
+<strong>Vigilance :</strong> dire « indicatif » ; jamais de promesse de gains ; l'option « ne
+pas déployer » doit être dite, pas seulement écrite.</p>
+<hr>
+<h2>Slide 10 — Limites et perspectives (rubrique 9) · 2 min</h2>
+<p><strong>À l'écran :</strong> carte gauche « Limites assumées » (5 puces) ; carte droite
+« Perspectives » (5 puces).</p>
+<p><strong>À l'oral — script (≈ 285 mots) :</strong></p>
+<blockquote>
+<p>Cinq limites, assumées. Pas de représentativité statistique : cinq cas
+contrastés autorisent une généralisation analytique prudente, rien d'autre.
+L'intelligence émotionnelle est étudiée par des pratiques situées — aucune
+mesure psychométrique des personnes. L'étude est transversale : les effets
+durables ne sont pas établis d'avance. L'accès aux sources est inégal selon
+les cas : la qualité des preuves est intégrée à l'interprétation. Enfin, ma
+position de praticien-chercheur : elle est outillée — journal, mémos, cas
+négatifs, piste d'audit — mais elle reste une limite déclarée.</p>
+<p>Cinq perspectives. Un suivi longitudinal : ces pratiques se maintiennent-elles
+après l'urgence ou un changement d'équipe ? La voix des parties prenantes
+aujourd'hui indirectes : étudiants, familles, partenaires. Des comparaisons
+élargies, qui établissent les frontières de transfert des mécanismes — sans
+classement sectoriel. L'évaluation des outils d'action — fiches, feuilles de
+route — en usage réel. Et une voie quantitative éventuelle, avec une
+opérationnalisation distincte des concepts, sans échelle improvisée.</p>
+<p>[COMPRESSER : trois limites, trois perspectives au choix.]</p>
+</blockquote>
+<p><strong>Transition :</strong> « J'en viens à ma conclusion. »</p>
+<p><strong>Sources :</strong> chap. 6 § 6.9 (limites) ; § 6.10 (perspectives).
+<strong>Vigilance :</strong> ne jamais transformer une limite en justification défensive ;
+les assumer sèchement est plus crédible devant le jury.</p>
+<hr>
+<h2>Slide 11 — Conclusion (rubrique 10) · 1 min</h2>
+<p><strong>À l'écran :</strong> fond encre ; « Question centrale » (verbatim) ; « Ce que la
+thèse apportera : un cadre discipliné (capacités · processus · effets), des
+mécanismes et conditions documentés, une aide au discernement du dirigeant » ;
+clôture en italique ; « Merci de votre attention ».</p>
+<p><strong>À l'oral — script (≈ 140 mots) :</strong></p>
+<blockquote>
+<p>La question centrale de la thèse est celle-ci : comment, et sous quelles
+conditions, l'articulation éventuelle de l'intelligence artificielle et de
+l'intelligence émotionnelle intervient-elle dans la gouvernance des
+établissements privés d'enseignement supérieur gabonais en polycrise — et
+avec quels effets documentés ?</p>
+<p>Ce que la thèse apportera : un cadre discipliné, qui sépare capacités,
+processus et effets ; des mécanismes et des conditions documentés ; et une
+aide au discernement pour le dirigeant.</p>
+<p>En une phrase : des décisions dont les raisons, les conséquences et les
+limites peuvent être examinées.</p>
+<p>Je vous remercie de votre attention et je me tiens à la disposition du jury
+pour ses questions.</p>
+<p>[Option, à trancher avec le directeur : mot de remerciement final — sinon,
+s'arrêter ici.]</p>
+</blockquote>
+<p><strong>Transition :</strong> — (passage aux questions du jury).
+<strong>Sources :</strong> chap. 3 (question centrale) ; chap. 6 ; fiche concept GA.
+<strong>Vigilance :</strong> ne pas ajouter de contenu nouveau en conclusion ; la clôture
+est la phrase du manuscrit, pas une promesse.</p>
+<hr>
+<h2>Rappels transversaux (à relire avant de répéter)</h2>
+<ol>
+<li><strong>Statuts</strong> : slides 7–8 « préparatoire » dès la première phrase ; slide 9
+   « indicatif » ; slide 5 « contributions attendues » si la question se pose.</li>
+<li><strong>Codes et chiffres canoniques</strong> : EPES-A…E ; 5 cas ; 45 = 15 DIR + 20 ACA +
+   10 appui ; Q1–Q14 ; N1–N8 ; C1–C5 ; P1–P7 ; R1–R6. Aucune variante.</li>
+<li><strong>Définition de la GA</strong> : seule citation lue mot pour mot (slide 5).</li>
+<li><strong>Établissements décrits, jamais classés</strong> ; aucune attribution causale nette.</li>
+<li><strong>Dédicace/remerciements</strong> : hors canevas Valax — deux points d'insertion
+   optionnels (slides 1 et 11), à trancher avec le Professeur Valax.</li>
+<li><strong>Après la collecte</strong> : réécrire slides 7–8 (tableau 5.17), retirer
+   « préparatoire », rattacher R1–R6 aux constats réels.</li>
+<li><strong>Aucune date de soutenance, aucun nom d'établissement réel, aucun verbatim
+   anticipé</strong> — dans ce document comme dans les slides.</li>
+</ol>
+<h2>Fichiers liés</h2>
+<table>
+<thead>
+<tr>
+<th>Fichier</th>
+<th>Rôle</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>CANEVAS_VALAX_DEVELOPPE.md</code></td>
+<td>Ce document (script oral complet par slide)</td>
+</tr>
+<tr>
+<td><code>CANEVAS_VALAX_DEVELOPPE.html</code></td>
+<td>Version lisible dans tout navigateur (aperçu direct)</td>
+</tr>
+<tr>
+<td><code>CANEVAS_VALAX.md</code></td>
+<td>Canevas source (10 rubriques, timing, statuts)</td>
+</tr>
+<tr>
+<td><code>Soutenance_DBA_MINANG_canevas_Valax_11_slides.pptx</code></td>
+<td>PowerPoint 11 slides — script condensé dans les notes de chaque slide</td>
+</tr>
+<tr>
+<td><code>generer_canevas_valax_pptx.py</code></td>
+<td>Régénération : <code>python3 presentation/generer_canevas_valax_pptx.py</code></td>
+</tr>
+<tr>
+<td><code>generer_canevas_valax_developpe_html.py</code></td>
+<td>Régénération HTML : <code>python3 presentation/generer_canevas_valax_developpe_html.py</code></td>
+</tr>
+</tbody>
+</table>
+  <p class="foot">Document généré depuis CANEVAS_VALAX_DEVELOPPE.md — une version condensée
+  du script figure dans le volet de notes du PowerPoint
+  « Soutenance_DBA_MINANG_canevas_Valax_11_slides.pptx ».
+  Garde-fous : chapitres 5–6 préparatoires ; codes EPES-A à EPES-E ; aucune date de
+  soutenance ; aucun résultat de terrain inventé.</p>
+</div>
+</body>
+</html>

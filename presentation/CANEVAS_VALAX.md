@@ -13,8 +13,10 @@
 > 6 et 7 présentent l'architecture de restitution et non des résultats.
 >
 > **Déclinaisons immédiates :**
-> `Soutenance_DBA_MINANG_canevas_Valax_11_slides.pptx` (PowerPoint, 11 slides)
-> et `CANEVAS_VALAX.docx` (Word).
+> `Soutenance_DBA_MINANG_canevas_Valax_11_slides.pptx` (PowerPoint, 11 slides,
+> script condensé dans les notes), `CANEVAS_VALAX.docx` (Word) et
+> `CANEVAS_VALAX_DEVELOPPE.md` / `.html` (version développée : script oral
+> complet par slide — voir table des fichiers plus bas).
 > (régénération : `python3 presentation/generer_canevas_valax_pptx.py` /
 > `python3 presentation/generer_canevas_valax_docx.py`).
 
@@ -190,6 +192,9 @@ Règle : aucun chiffre ni verbatim ne sera présenté avant la collecte.
 | Fichier | Rôle |
 |---|---|
 | `CANEVAS_VALAX.md` | Ce canevas (trame détaillée, timing, statuts) |
+| `CANEVAS_VALAX_DEVELOPPE.md` | Version développée : script oral complet par slide (à l'écran / à l'oral / transition / sources) |
+| `CANEVAS_VALAX_DEVELOPPE.html` | Version développée lisible dans tout navigateur (aperçu direct) |
+| `generer_canevas_valax_developpe_html.py` | Régénération HTML : `python3 presentation/generer_canevas_valax_developpe_html.py` |
 | `CANEVAS_VALAX.docx` | Même canevas au format Word (imprimable, annotable) |
 | `CANEVAS_VALAX.html` | Version lisible dans tout navigateur (aperçu direct) |
 | `CANEVAS_VALAX.pdf` | Version PDF (partage et impression, sans Word) |

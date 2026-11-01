@@ -90,6 +90,16 @@ perspectives · conclusion. Livrés :
   `presentation/generer_canevas_valax_pdf.py`, fpdf2 + DejaVu). Le DOCX
   s'ouvre normalement dans Word/LibreOffice/Google Docs après téléchargement
   (bouton de téléchargement de la visionneuse ou dépôt GitHub).
+- Complément (même conversation) : à la demande de l'auteur (« développer le
+  document de manière à exploiter pour le PPT »), **version développée** du
+  canevas : `presentation/CANEVAS_VALAX_DEVELOPPE.md` + `.html` (régénération
+  `presentation/generer_canevas_valax_developpe_html.py`) — pour chacune des
+  11 slides : contenu **à l'écran**, **script oral complet chronométré**
+  (≈ 140 mots/min, total ≈ 24,5 min, variantes « version 15 minutes »),
+  **transition**, **sources** (chapitres/sections) et **points de vigilance** ;
+  script **condensé injecté dans les notes présentateur** du PowerPoint 11
+  slides (régénéré, 11/11 notes, audits garde-fous OK : statuts préparatoire/
+  indicatif présents, aucun nom interdit, aucune date).
 Garde-fous : slides 6–7 du canevas = architecture de restitution (chapitres
 5–6 préparatoires) ; aucun nom pressenti ; aucune date. **Dédicace et
 remerciements absentes du canevas Valax** : conservées dans la version
