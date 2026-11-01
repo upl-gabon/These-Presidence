@@ -12,8 +12,11 @@
 > inventé ; les chapitres 5–6 du manuscrit étant **préparatoires**, les rubriques
 > 6 et 7 présentent l'architecture de restitution et non des résultats.
 >
-> **Déclinaison immédiate :** `Soutenance_DBA_MINANG_canevas_Valax_11_slides.pptx`
-> (régénération : `python3 presentation/generer_canevas_valax_pptx.py`).
+> **Déclinaisons immédiates :**
+> `Soutenance_DBA_MINANG_canevas_Valax_11_slides.pptx` (PowerPoint, 11 slides)
+> et `CANEVAS_VALAX.docx` (Word).
+> (régénération : `python3 presentation/generer_canevas_valax_pptx.py` /
+> `python3 presentation/generer_canevas_valax_docx.py`).
 
 ## Vue d'ensemble — 10 rubriques, 11 slides
 
@@ -187,6 +190,8 @@ Règle : aucun chiffre ni verbatim ne sera présenté avant la collecte.
 | Fichier | Rôle |
 |---|---|
 | `CANEVAS_VALAX.md` | Ce canevas (trame détaillée, timing, statuts) |
+| `CANEVAS_VALAX.docx` | Même canevas au format Word (imprimable, annotable) |
 | `Soutenance_DBA_MINANG_canevas_Valax_11_slides.pptx` | Déclinaison PowerPoint, 11 slides 16:9 |
 | `generer_canevas_valax_pptx.py` | Régénération : `python3 presentation/generer_canevas_valax_pptx.py` |
+| `generer_canevas_valax_docx.py` | Régénération : `python3 presentation/generer_canevas_valax_docx.py` |
 | `Soutenance_DBA_MINANG_15_slides.pptx` | Version 15 slides antérieure (contient dédicace/remerciements) |

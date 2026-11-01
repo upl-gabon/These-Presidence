@@ -77,6 +77,10 @@ perspectives · conclusion. Livrés :
   portant le bandeau « préparatoire » ; issue ouverte assumée sur la slide
   analyse).
 - `presentation/generer_canevas_valax_pptx.py` — régénération.
+- Complément (même conversation) : déclinaison **Word**
+  `presentation/CANEVAS_VALAX.docx` du canevas (même contenu, même
+  traçabilité ; régénération par `presentation/generer_canevas_valax_docx.py`),
+  demandée par l'auteur après la livraison du Markdown et du PowerPoint.
 Garde-fous : slides 6–7 du canevas = architecture de restitution (chapitres
 5–6 préparatoires) ; aucun nom pressenti ; aucune date. **Dédicace et
 remerciements absentes du canevas Valax** : conservées dans la version

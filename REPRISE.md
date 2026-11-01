@@ -58,7 +58,8 @@
   10 rubriques : titre · intérêt actuel · revue (2 slides) · cadre théorique ·
   design · résultats · analyse · implications managériales · limites et
   perspectives · conclusion. Livrables : `presentation/CANEVAS_VALAX.md`
-  (trame détaillée, timing ≈ 24 min, statuts par slide) et déclinaison
+  (trame détaillée, timing ≈ 24 min, statuts par slide), déclinaison Word
+  `CANEVAS_VALAX.docx` (script `generer_canevas_valax_docx.py`) et
   `Soutenance_DBA_MINANG_canevas_Valax_11_slides.pptx` +
   `presentation/generer_canevas_valax_pptx.py`. Slides résultats/analyse
   **préparatoires** (statut explicite) ; dédicace/remerciements hors canevas
