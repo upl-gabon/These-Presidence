@@ -554,7 +554,7 @@ est la phrase du manuscrit, pas une promesse.
 6. **Après la collecte** : réécrire slides 7–8 (tableau 5.17), retirer
    « préparatoire », rattacher R1–R6 aux constats réels.
 7. **Date de soutenance : 15 décembre 2026** (affichée slide 1, fournie par l'auteur) ; aucun nom d'établissement réel, aucun verbatim
-   anticipé** — dans ce document comme dans les slides.
+   anticipé — dans ce document comme dans les slides.
 
 ## Fichiers liés
 
